@@ -9,12 +9,18 @@ OUT = Path("reform_map.html")
 def norm(s):
     return re.sub(r'[^a-z0-9]+', '', s.lower())
 
+NUM_COLS = (
+    "reform_share_mean_pct", "reform_share_mic_pct", "reform_share_ec_pct",
+    "reform_share_2024_pct", "reform_swing_pp", "top_competitor_share_pct",
+    "margin_mean_pp", "margin_mic_pp", "margin_ec_pp", "sigma_pp",
+    "reform_win_probability",
+)
+
 predictions = {}
 with CSV_PATH.open() as f:
     for r in csv.DictReader(f):
-        for k in ("reform_share_pct", "top_competitor_share_pct", "margin_pp",
-                  "reform_win_probability"):
-            r[k] = float(r[k])
+        for k in NUM_COLS:
+            r[k] = float(r[k]) if r[k] not in ("", None) else None
         predictions[norm(r["constituency"])] = r
 
 g = json.load(GEO.open())
@@ -106,7 +112,7 @@ HTML = r"""<!DOCTYPE html>
 <header>
   <div>
     <h1>UK constituency map — Reform UK projections</h1>
-    <div class="sub">More in Common April 2026 MRP · 631 GB constituencies · NI &amp; Chorley (Speaker) greyed</div>
+    <div class="sub">MiC Apr 2026 MRP · EC Jan 2026 MRP · 2024 HoC results · 631 GB constituencies · NI &amp; Chorley greyed</div>
   </div>
 </header>
 
@@ -115,9 +121,11 @@ HTML = r"""<!DOCTYPE html>
   <aside>
     <section>
       <h2>Colour mode</h2>
-      <button class="mode-btn active" data-mode="winner">Projected winner</button>
+      <button class="mode-btn active" data-mode="winner">Projected winner (MiC)</button>
       <button class="mode-btn" data-mode="prob">P(Reform wins)</button>
       <button class="mode-btn" data-mode="share">Reform vote share %</button>
+      <button class="mode-btn" data-mode="swing">Swing from 2024</button>
+      <button class="mode-btn" data-mode="agreement">MRP agreement</button>
     </section>
 
     <section>
@@ -146,20 +154,37 @@ const WINNER_COLOURS = {
   "Plaid Cymru":                   "#005b54",
 };
 const NO_DATA = "#3b4350";
+const AGREE_COL    = "#00c4c6";
+const DISAGREE_COL = "#e4003b";
 
 function norm(s) { return s.toLowerCase().replace(/[^a-z0-9]+/g, ""); }
 
-// colour scale for probability / share (0..1 → 5-stop palette)
-function scaleColour(v) {
+// sequential scale 0..1 (teal gradient)
+function seqColour(v) {
   if (v == null) return NO_DATA;
   const stops = [
-    [0.00, [59, 67, 80]],    // #3b4350
-    [0.25, [107, 118, 133]], // #6b7685
-    [0.50, [200, 149, 0]],   // #c89500
-    [0.75, [0, 141, 143]],   // #008d8f
-    [1.00, [0, 164, 166]],   // #00a4a6
+    [0.00, [59, 67, 80]],
+    [0.25, [107, 118, 133]],
+    [0.50, [200, 149, 0]],
+    [0.75, [0, 141, 143]],
+    [1.00, [0, 164, 166]],
   ];
-  v = Math.max(0, Math.min(1, v));
+  return interp(v, stops);
+}
+// diverging scale -1..+1 (red-grey-teal) for swing
+function divColour(v) {
+  if (v == null) return NO_DATA;
+  const stops = [
+    [-1.0, [228,   0,  59]], // #e4003b
+    [-0.5, [180,  80,  80]],
+    [ 0.0, [ 55,  66,  78]], // near bg
+    [ 0.5, [  0, 141, 143]],
+    [ 1.0, [  0, 196, 198]], // #00c4c6
+  ];
+  return interp(v, stops);
+}
+function interp(v, stops) {
+  v = Math.max(stops[0][0], Math.min(stops.at(-1)[0], v));
   for (let i = 0; i < stops.length - 1; i++) {
     const [t0, c0] = stops[i], [t1, c1] = stops[i+1];
     if (v <= t1) {
@@ -178,9 +203,14 @@ function styleFor(feature) {
   if (!rec) return { fillColor: NO_DATA, fillOpacity: 0.6,
                      color: "#1a1f26", weight: 0.5 };
   let fc;
-  if (mode === "winner") fc = WINNER_COLOURS[rec.projected_winner] || NO_DATA;
-  else if (mode === "prob") fc = scaleColour(rec.reform_win_probability);
-  else fc = scaleColour(Math.min(1, rec.reform_share_pct / 60));
+  if (mode === "winner")        fc = WINNER_COLOURS[rec.projected_winner_mic] || NO_DATA;
+  else if (mode === "prob")     fc = seqColour(rec.reform_win_probability);
+  else if (mode === "share")    fc = seqColour(Math.min(1, (rec.reform_share_mean_pct || 0) / 60));
+  else if (mode === "swing")    fc = divColour(rec.reform_swing_pp == null ? null :
+                                               Math.max(-1, Math.min(1, rec.reform_swing_pp / 30)));
+  else if (mode === "agreement")fc = rec.winners_agree === "yes" ? AGREE_COL
+                                   : rec.winners_agree === "no"  ? DISAGREE_COL
+                                   : NO_DATA;
   return { fillColor: fc, fillOpacity: 0.85, color: "#0f1419", weight: 0.3 };
 }
 
@@ -193,19 +223,29 @@ L.control.attribution({ prefix: false })
   .addTo(map);
 
 const info = document.getElementById("info");
+function fmt(v, d=1) { return v == null ? "—" : (+v).toFixed(d); }
+function sign(v, d=1) { return v == null ? "—" : ((v>=0?"+":"") + (+v).toFixed(d)); }
+
 function showInfo(rec, name) {
   if (!rec) {
     info.innerHTML = `<div class="name">${name}</div>
       <div class="row">No MRP data (NI or Speaker's seat)</div>`;
     return;
   }
+  const agree = rec.winners_agree;
+  const agreeColor = agree === "yes" ? AGREE_COL : agree === "no" ? DISAGREE_COL : "#aaa";
   info.innerHTML = `
     <div class="name">${rec.constituency}</div>
-    <div class="row"><span>Projected winner</span>
-      <b style="color:${WINNER_COLOURS[rec.projected_winner] || "#fff"}">${rec.projected_winner}</b></div>
-    <div class="row"><span>Reform share</span><b>${(+rec.reform_share_pct).toFixed(1)}%</b></div>
-    <div class="row"><span>Top competitor</span><b>${rec.top_competitor} (${(+rec.top_competitor_share_pct).toFixed(1)}%)</b></div>
-    <div class="row"><span>Margin</span><b>${(+rec.margin_pp >= 0 ? "+" : "") + (+rec.margin_pp).toFixed(1)} pp</b></div>
+    <div class="row"><span>MiC winner</span>
+      <b style="color:${WINNER_COLOURS[rec.projected_winner_mic] || "#fff"}">${rec.projected_winner_mic}</b></div>
+    <div class="row"><span>EC winner</span><b>${rec.projected_winner_ec || "—"}</b></div>
+    <div class="row"><span>Pollsters</span>
+      <b style="color:${agreeColor}">${agree === "yes" ? "agree" : agree === "no" ? "DISAGREE" : "—"}</b></div>
+    <div class="row"><span>Reform share</span><b>${fmt(rec.reform_share_mean_pct)}%</b></div>
+    <div class="row"><span>Reform 2024</span><b>${fmt(rec.reform_share_2024_pct)}%</b></div>
+    <div class="row"><span>Swing</span><b>${sign(rec.reform_swing_pp)} pp</b></div>
+    <div class="row"><span>Top rival</span><b>${rec.top_competitor} (${fmt(rec.top_competitor_share_pct)}%)</b></div>
+    <div class="row"><span>Margin</span><b>${sign(rec.margin_mean_pp)} pp (±${fmt(rec.sigma_pp)})</b></div>
     <div class="row"><span>P(Reform wins)</span><b>${((+rec.reform_win_probability)*100).toFixed(0)}%</b></div>
     <div class="row"><span>Category</span><b>${rec.likelihood_category}</b></div>
   `;
@@ -222,7 +262,7 @@ const layer = L.geoJSON(GEO, {
       mouseout:  e => layer.resetStyle(e.target),
       click:     e => map.fitBounds(e.target.getBounds(), { maxZoom: 9 }),
     });
-    const winner = rec ? rec.projected_winner : "No data";
+    const winner = rec ? rec.projected_winner_mic : "No data";
     lyr.bindTooltip(`${feature.properties.name} — ${winner}`,
                     { sticky: true, direction: "top" });
   },
@@ -236,7 +276,7 @@ function buildLegend() {
   if (mode === "winner") {
     const counts = {};
     Object.values(PRED).forEach(r => {
-      counts[r.projected_winner] = (counts[r.projected_winner] || 0) + 1;
+      counts[r.projected_winner_mic] = (counts[r.projected_winner_mic] || 0) + 1;
     });
     const rows = Object.entries(WINNER_COLOURS).map(([party, col]) => `
       <div class="legend-row">
@@ -250,6 +290,36 @@ function buildLegend() {
         <div class="legend-swatch" style="background:${NO_DATA}"></div>
         <div>No data (NI / Speaker)</div>
         <div class="legend-count">19</div>
+      </div>`;
+  } else if (mode === "swing") {
+    el.innerHTML = `
+      <div class="legend-row"><b>Reform swing from 2024</b></div>
+      <div class="gradient-legend" style="background:linear-gradient(
+        to right, #e4003b, #b45050, #37424e, #008d8f, #00c4c6);"></div>
+      <div class="gradient-labels"><span>−30 pp</span><span>0</span><span>+30 pp</span></div>
+    `;
+  } else if (mode === "agreement") {
+    let agree = 0, disagree = 0, nodata = 0;
+    Object.values(PRED).forEach(r => {
+      if (r.winners_agree === "yes") agree++;
+      else if (r.winners_agree === "no") disagree++;
+      else nodata++;
+    });
+    el.innerHTML = `
+      <div class="legend-row">
+        <div class="legend-swatch" style="background:${AGREE_COL}"></div>
+        <div>Both MRPs agree on winner</div>
+        <div class="legend-count">${agree}</div>
+      </div>
+      <div class="legend-row">
+        <div class="legend-swatch" style="background:${DISAGREE_COL}"></div>
+        <div>Pollsters disagree</div>
+        <div class="legend-count">${disagree}</div>
+      </div>
+      <div class="legend-row">
+        <div class="legend-swatch" style="background:${NO_DATA}"></div>
+        <div>No data (NI / Speaker)</div>
+        <div class="legend-count">${nodata + 19}</div>
       </div>`;
   } else {
     const label = mode === "prob" ? "P(Reform wins)" : "Reform vote share";
