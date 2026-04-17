@@ -1,0 +1,632 @@
+constituency,projected_winner,reform_share_pct,top_competitor,top_competitor_share_pct,margin_pp,reform_win_probability,likelihood_category,con_pct,lab_pct,libdem_pct,green_pct,snp_pct,plaid_pct,other_pct
+Amber Valley,Reform UK,40.89,Conservative,23.39,17.5,1.0,Safe Reform,23.39,18.61,6.45,10.66,0.0,0.0,0.0
+Ashfield,Reform UK,50.67,Other,13.1,37.56,1.0,Safe Reform,7.06,10.37,13.06,5.74,0.0,0.0,13.1
+Barnsley North,Reform UK,47.04,Labour,19.4,27.65,1.0,Safe Reform,8.8,19.4,9.61,10.98,0.0,0.0,4.17
+Barnsley South,Reform UK,50.64,Labour,17.68,32.97,1.0,Safe Reform,8.93,17.68,8.53,10.2,0.0,0.0,4.02
+Bassetlaw,Reform UK,40.92,Conservative,24.0,16.91,1.0,Safe Reform,24.0,18.03,7.79,9.25,0.0,0.0,0.0
+Bishop Auckland,Reform UK,42.09,Conservative,21.49,20.6,1.0,Safe Reform,21.49,17.95,8.7,8.08,0.0,0.0,1.69
+Blackpool North and Fleetwood,Reform UK,41.71,Conservative,24.68,17.03,1.0,Safe Reform,24.68,17.9,6.31,7.65,0.0,0.0,1.74
+Blackpool South,Reform UK,45.71,Labour,22.21,23.5,1.0,Safe Reform,16.98,22.21,7.04,5.29,0.0,0.0,2.76
+Blyth and Ashington,Reform UK,43.14,Labour,23.57,19.57,1.0,Safe Reform,13.35,23.57,8.69,11.25,0.0,0.0,0.0
+Bolsover,Reform UK,39.36,Conservative,21.12,18.24,1.0,Safe Reform,21.12,17.48,7.94,14.1,0.0,0.0,0.0
+Bolton North East,Reform UK,34.02,Labour,20.39,13.63,1.0,Safe Reform,19.88,20.39,5.17,16.53,0.0,0.0,4.0
+Boston and Skegness,Reform UK,47.21,Conservative,26.9,20.31,1.0,Safe Reform,26.9,8.0,8.9,5.99,0.0,0.0,3.0
+Bradford South,Reform UK,34.39,Labour,18.19,16.2,1.0,Safe Reform,14.94,18.19,6.04,16.84,0.0,0.0,9.6
+Bridlington and The Wolds,Reform UK,41.63,Conservative,27.95,13.69,1.0,Safe Reform,27.95,11.56,10.72,5.26,0.0,0.0,2.88
+Camborne and Redruth,Reform UK,35.72,Conservative,21.06,14.66,1.0,Safe Reform,21.06,19.3,13.31,8.11,0.0,0.0,2.5
+Cannock Chase,Reform UK,40.45,Conservative,24.94,15.51,1.0,Safe Reform,24.94,17.23,6.8,10.57,0.0,0.0,0.0
+Castle Point,Reform UK,43.13,Conservative,29.58,13.55,1.0,Safe Reform,29.58,8.94,10.15,8.19,0.0,0.0,0.0
+Clacton,Reform UK,49.61,Conservative,24.3,25.32,1.0,Safe Reform,24.3,9.03,7.78,6.12,0.0,0.0,3.16
+Crewe and Nantwich,Reform UK,37.56,Labour,20.07,17.49,1.0,Safe Reform,19.85,20.07,8.49,11.76,0.0,0.0,2.26
+Derby South,Reform UK,37.26,Labour,21.31,15.95,1.0,Safe Reform,13.06,21.31,8.84,10.29,0.0,0.0,9.23
+Doncaster Central,Reform UK,37.46,Labour,20.78,16.68,1.0,Safe Reform,19.53,20.78,6.33,11.53,0.0,0.0,4.37
+Doncaster North,Reform UK,35.5,Conservative,19.1,16.4,1.0,Safe Reform,19.1,16.98,8.37,9.89,0.0,0.0,10.16
+Dover and Deal,Reform UK,35.15,Conservative,20.81,14.34,1.0,Safe Reform,20.81,19.62,9.5,12.34,0.0,0.0,2.59
+Easington,Reform UK,47.52,Labour,19.09,28.43,1.0,Safe Reform,9.27,19.09,11.07,8.83,0.0,0.0,4.22
+Great Grimsby and Cleethorpes,Reform UK,46.89,Conservative,20.43,26.46,1.0,Safe Reform,20.43,17.37,7.24,5.32,0.0,0.0,2.75
+Great Yarmouth,Reform UK,45.02,Conservative,23.33,21.69,1.0,Safe Reform,23.33,14.67,6.09,7.74,0.0,0.0,3.14
+Hartlepool,Reform UK,46.47,Conservative,18.09,28.39,1.0,Safe Reform,18.09,17.31,7.92,6.53,0.0,0.0,3.67
+Heywood and Middleton North,Reform UK,38.81,Labour,20.74,18.07,1.0,Safe Reform,15.62,20.74,9.18,7.97,0.0,0.0,7.68
+Houghton and Sunderland South,Reform UK,42.48,Labour,23.36,19.12,1.0,Safe Reform,13.85,23.36,9.24,11.07,0.0,0.0,0.0
+Jarrow and Gateshead East,Reform UK,37.94,Labour,24.76,13.17,1.0,Safe Reform,9.49,24.76,11.32,13.41,0.0,0.0,3.1
+Kingston upon Hull East,Reform UK,46.25,Labour,20.83,25.42,1.0,Safe Reform,10.48,20.83,14.92,7.51,0.0,0.0,0.0
+Kingston upon Hull West and Haltemprice,Reform UK,41.23,Labour,22.44,18.8,1.0,Safe Reform,15.74,22.44,12.5,6.38,0.0,0.0,1.7
+Leeds South West and Morley,Reform UK,35.86,Labour,20.19,15.67,1.0,Safe Reform,20.02,20.19,9.27,11.6,0.0,0.0,3.06
+Leigh and Atherton,Reform UK,42.31,Labour,22.87,19.43,1.0,Safe Reform,13.73,22.87,8.71,10.31,0.0,0.0,2.07
+Makerfield,Reform UK,45.78,Labour,20.57,25.2,1.0,Safe Reform,9.52,20.57,11.36,11.02,0.0,0.0,1.75
+Mansfield,Reform UK,40.95,Conservative,25.3,15.64,1.0,Safe Reform,25.3,15.48,9.25,6.29,0.0,0.0,2.73
+Mid Cheshire,Reform UK,36.72,Labour,20.97,15.75,1.0,Safe Reform,19.03,20.97,10.71,10.22,0.0,0.0,2.36
+Middlesbrough and Thornaby East,Reform UK,38.01,Labour,22.15,15.85,1.0,Safe Reform,13.04,22.15,13.34,7.39,0.0,0.0,6.08
+Montgomeryshire and Glyndwr,Reform UK,36.51,Conservative,13.89,22.62,1.0,Safe Reform,13.89,9.6,12.96,13.71,0.0,13.33,0.0
+Newcastle-under-Lyme,Reform UK,37.61,Conservative,23.65,13.96,1.0,Safe Reform,23.65,21.22,8.03,9.49,0.0,0.0,0.0
+Newport East,Reform UK,32.01,Labour,15.72,16.29,1.0,Safe Reform,15.35,15.72,6.8,14.91,0.0,11.38,3.83
+Newton Aycliffe and Spennymoor,Reform UK,42.58,Labour,18.58,24.0,1.0,Safe Reform,16.95,18.58,12.45,7.49,0.0,0.0,1.96
+Normanton and Hemsworth,Reform UK,47.07,Labour,18.83,28.24,1.0,Safe Reform,12.43,18.83,8.14,13.53,0.0,0.0,0.0
+North Durham,Reform UK,40.29,Labour,18.91,21.38,1.0,Safe Reform,11.69,18.91,14.94,11.09,0.0,0.0,3.08
+North Warwickshire and Bedworth,Reform UK,40.65,Conservative,26.73,13.92,1.0,Safe Reform,26.73,17.25,6.65,8.72,0.0,0.0,0.0
+Oldham East and Saddleworth,Reform UK,35.33,Labour,19.45,15.88,1.0,Safe Reform,14.21,19.45,12.69,8.41,0.0,0.0,9.92
+"Oldham West, Chadderton and Royton",Reform UK,34.71,Labour,17.87,16.84,1.0,Safe Reform,10.62,17.87,8.16,12.48,0.0,0.0,16.17
+Penistone and Stocksbridge,Reform UK,39.74,Labour,20.86,18.88,1.0,Safe Reform,20.6,20.86,10.4,8.4,0.0,0.0,0.0
+Plymouth Moor View,Reform UK,40.24,Conservative,24.58,15.66,1.0,Safe Reform,24.58,18.36,7.96,8.85,0.0,0.0,0.0
+"Pontefract, Castleford and Knottingley",Reform UK,46.93,Labour,18.61,28.32,1.0,Safe Reform,12.87,18.61,8.96,10.24,0.0,0.0,2.38
+Preston,Reform UK,33.7,Labour,20.45,13.25,1.0,Safe Reform,12.02,20.45,10.45,10.13,0.0,0.0,13.25
+Rawmarsh and Conisbrough,Reform UK,45.56,Labour,20.09,25.47,1.0,Safe Reform,12.49,20.09,8.15,10.98,0.0,0.0,2.73
+Rossendale and Darwen,Reform UK,37.82,Conservative,24.46,13.36,1.0,Safe Reform,24.46,20.1,6.07,9.99,0.0,0.0,1.56
+Rotherham,Reform UK,43.3,Labour,18.5,24.8,1.0,Safe Reform,4.75,18.5,12.82,12.72,0.0,0.0,7.9
+Runcorn and Helsby,Reform UK,40.87,Labour,24.81,16.06,1.0,Safe Reform,12.99,24.81,8.23,11.7,0.0,0.0,1.4
+Scarborough and Whitby,Reform UK,40.65,Conservative,23.73,16.92,1.0,Safe Reform,23.73,17.26,8.42,7.2,0.0,0.0,2.74
+Scunthorpe,Reform UK,40.31,Conservative,25.97,14.35,1.0,Safe Reform,25.97,16.24,5.27,8.95,0.0,0.0,3.27
+Selby,Reform UK,38.93,Conservative,21.95,16.97,1.0,Safe Reform,21.95,19.7,7.11,12.31,0.0,0.0,0.0
+Sherwood Forest,Reform UK,38.61,Conservative,23.31,15.3,1.0,Safe Reform,23.31,18.04,8.57,9.01,0.0,0.0,2.47
+Sittingbourne and Sheppey,Reform UK,40.04,Conservative,23.83,16.2,1.0,Safe Reform,23.83,12.51,10.29,6.85,0.0,0.0,6.48
+South Basildon and East Thurrock,Reform UK,43.94,Conservative,21.35,22.59,1.0,Safe Reform,21.35,12.32,8.88,7.83,0.0,0.0,5.69
+South West Norfolk,Reform UK,39.78,Conservative,21.51,18.27,1.0,Safe Reform,21.51,11.03,9.79,7.94,0.0,0.0,9.94
+Spen Valley,Reform UK,36.16,Conservative,22.07,14.09,1.0,Safe Reform,22.07,19.23,6.17,11.27,0.0,0.0,5.1
+St Austell and Newquay,Reform UK,38.06,Conservative,24.29,13.77,1.0,Safe Reform,24.29,15.05,13.04,6.78,0.0,0.0,2.79
+Stockton North,Reform UK,41.69,Labour,22.3,19.39,1.0,Safe Reform,19.03,22.3,6.93,10.05,0.0,0.0,0.0
+Stoke-on-Trent Central,Reform UK,40.1,Labour,20.31,19.79,1.0,Safe Reform,15.46,20.31,9.18,9.11,0.0,0.0,5.83
+Stoke-on-Trent North,Reform UK,40.72,Conservative,22.85,17.87,1.0,Safe Reform,22.85,18.37,7.43,7.53,0.0,0.0,3.1
+Tamworth,Reform UK,40.71,Conservative,27.03,13.67,1.0,Safe Reform,27.03,15.14,7.1,8.11,0.0,0.0,1.91
+Telford,Reform UK,38.94,Labour,22.08,16.85,1.0,Safe Reform,19.78,22.08,8.75,10.46,0.0,0.0,0.0
+Thurrock,Reform UK,37.47,Labour,21.62,15.85,1.0,Safe Reform,20.28,21.62,6.57,10.04,0.0,0.0,4.02
+Tipton and Wednesbury,Reform UK,37.71,Conservative,23.0,14.71,1.0,Safe Reform,23.0,18.53,6.4,9.72,0.0,0.0,4.63
+Torfaen,Reform UK,33.53,Labour,17.87,15.66,1.0,Safe Reform,14.54,17.87,6.67,13.05,0.0,11.39,2.94
+Walsall and Bloxwich,Reform UK,32.7,Labour,18.9,13.8,1.0,Safe Reform,18.13,18.9,6.45,11.22,0.0,0.0,12.61
+Warrington North,Reform UK,40.72,Labour,22.47,18.25,1.0,Safe Reform,13.82,22.47,9.08,11.98,0.0,0.0,1.93
+Washington and Gateshead South,Reform UK,41.17,Labour,23.0,18.16,1.0,Safe Reform,13.01,23.0,7.61,12.26,0.0,0.0,2.95
+Whitehaven and Workington,Reform UK,42.85,Labour,22.94,19.91,1.0,Safe Reform,17.72,22.94,7.91,8.59,0.0,0.0,0.0
+Wigan,Reform UK,41.37,Labour,21.94,19.43,1.0,Safe Reform,10.18,21.94,9.05,10.97,0.0,0.0,6.5
+Alyn and Deeside,Reform UK,33.26,Labour,21.04,12.22,0.999,Safe Reform,14.49,21.04,6.72,12.17,0.0,5.68,6.65
+Bolton South and Walkden,Reform UK,34.95,Labour,21.91,13.04,0.999,Safe Reform,12.06,21.91,7.54,14.65,0.0,0.0,8.89
+Brigg and Immingham,Reform UK,43.11,Conservative,30.83,12.27,0.999,Safe Reform,30.83,12.02,5.37,8.67,0.0,0.0,0.0
+Burnley,Reform UK,32.27,Labour,20.24,12.04,0.999,Safe Reform,19.14,20.24,17.33,9.19,0.0,0.0,1.82
+Carlisle,Reform UK,36.91,Conservative,24.42,12.49,0.999,Safe Reform,24.42,19.31,8.77,8.52,0.0,0.0,2.06
+Doncaster East and the Isle of Axholme,Reform UK,40.46,Conservative,27.45,13.01,0.999,Safe Reform,27.45,15.3,6.51,8.56,0.0,0.0,1.7
+Dudley,Reform UK,38.1,Conservative,25.95,12.15,0.999,Safe Reform,25.95,18.11,6.74,6.88,0.0,0.0,4.21
+Llanelli,Reform UK,37.12,Plaid Cymru,24.97,12.15,0.999,Safe Reform,7.14,13.46,5.96,9.25,0.0,24.97,2.1
+Neath and Swansea East,Reform UK,33.69,Labour,21.08,12.61,0.999,Safe Reform,9.51,21.08,7.01,11.94,0.0,16.76,0.0
+Newport West and Islwyn,Reform UK,32.97,Labour,20.57,12.39,0.999,Safe Reform,13.21,20.57,6.39,12.81,0.0,9.38,4.68
+Rochdale,Reform UK,32.43,Labour,19.53,12.9,0.999,Safe Reform,12.28,19.53,9.68,10.64,0.0,0.0,15.44
+South East Cornwall,Reform UK,36.1,Conservative,23.69,12.41,0.999,Safe Reform,23.69,16.03,17.22,5.71,0.0,0.0,1.25
+South Ribble,Reform UK,36.73,Conservative,24.13,12.6,0.999,Safe Reform,24.13,21.46,8.42,9.26,0.0,0.0,0.0
+Stalybridge and Hyde,Reform UK,34.56,Labour,22.29,12.27,0.999,Safe Reform,17.02,22.29,5.98,14.95,0.0,0.0,5.2
+Sunderland Central,Reform UK,37.24,Labour,25.22,12.02,0.999,Safe Reform,14.62,25.22,10.1,12.82,0.0,0.0,0.0
+Wakefield and Rothwell,Reform UK,35.02,Labour,22.4,12.62,0.999,Safe Reform,16.29,22.4,10.21,12.29,0.0,0.0,3.79
+Weston-super-Mare,Reform UK,35.81,Conservative,23.53,12.28,0.999,Safe Reform,23.53,18.76,12.84,9.05,0.0,0.0,0.0
+Ashton-under-Lyne,Reform UK,34.74,Labour,23.01,11.73,0.998,Safe Reform,14.02,23.01,6.92,15.44,0.0,0.0,5.88
+Fylde,Reform UK,38.01,Conservative,26.37,11.64,0.998,Safe Reform,26.37,13.7,8.71,7.14,0.0,0.0,6.06
+Halifax,Reform UK,31.17,Labour,19.31,11.87,0.998,Safe Reform,18.27,19.31,6.94,17.15,0.0,0.0,7.16
+Kingston upon Hull North and Cottingham,Reform UK,37.33,Labour,25.64,11.69,0.998,Safe Reform,12.36,25.64,12.46,8.6,0.0,0.0,3.62
+West Lancashire,Reform UK,36.67,Labour,25.34,11.33,0.998,Safe Reform,13.89,25.34,9.38,14.72,0.0,0.0,0.0
+Wolverhampton North East,Reform UK,36.36,Conservative,24.5,11.85,0.998,Safe Reform,24.5,23.9,7.03,8.22,0.0,0.0,0.0
+Basildon and Billericay,Reform UK,37.95,Conservative,26.82,11.13,0.997,Safe Reform,26.82,15.45,7.81,9.32,0.0,0.0,2.64
+Bridgend,Reform UK,31.95,Labour,20.84,11.12,0.997,Safe Reform,12.38,20.84,5.83,12.04,0.0,8.7,8.27
+Bridgwater,Reform UK,37.1,Conservative,25.9,11.2,0.997,Safe Reform,25.9,14.27,14.23,6.48,0.0,0.0,2.02
+Chatham and Aylesford,Reform UK,36.46,Conservative,25.33,11.13,0.997,Safe Reform,25.33,17.15,8.86,10.26,0.0,0.0,1.95
+Merthyr Tydfil and Aberdare,Reform UK,32.34,Plaid Cymru,21.37,10.96,0.997,Safe Reform,9.13,17.09,5.95,11.68,0.0,21.37,2.44
+North Northumberland,Reform UK,33.84,Conservative,22.73,11.11,0.997,Safe Reform,22.73,17.75,12.58,8.25,0.0,0.0,4.85
+Ossett and Denby Dale,Reform UK,36.0,Conservative,25.08,10.92,0.997,Safe Reform,25.08,18.03,6.27,11.72,0.0,0.0,2.91
+Penrith and Solway,Reform UK,35.83,Conservative,24.79,11.04,0.997,Safe Reform,24.79,18.42,12.33,7.32,0.0,0.0,1.32
+Blaydon and Consett,Reform UK,35.94,Labour,25.36,10.58,0.996,Safe Reform,13.46,25.36,9.09,14.56,0.0,0.0,1.58
+Chesterfield,Reform UK,34.25,Labour,23.78,10.47,0.996,Safe Reform,18.03,23.78,10.97,10.99,0.0,0.0,1.97
+Louth and Horncastle,Reform UK,40.88,Conservative,30.26,10.61,0.996,Safe Reform,30.26,10.29,8.51,6.84,0.0,0.0,3.22
+South Derbyshire,Reform UK,35.95,Conservative,25.44,10.51,0.996,Safe Reform,25.44,18.42,7.8,9.59,0.0,0.0,2.81
+South Holland and The Deepings,Reform UK,39.78,Conservative,29.06,10.72,0.996,Safe Reform,29.06,7.69,9.8,6.78,0.0,0.0,6.89
+Cramlington and Killingworth,Reform UK,35.33,Labour,25.14,10.18,0.995,Safe Reform,16.41,25.14,8.75,11.91,0.0,0.0,2.46
+Rochester and Strood,Reform UK,35.54,Conservative,25.32,10.22,0.995,Safe Reform,25.32,17.83,9.46,10.35,0.0,0.0,1.5
+Southport,Reform UK,32.18,Conservative,21.92,10.26,0.995,Safe Reform,21.92,21.82,12.92,9.31,0.0,0.0,1.86
+Worsley and Eccles,Reform UK,35.0,Labour,24.82,10.18,0.995,Safe Reform,14.5,24.82,7.5,15.42,0.0,0.0,2.76
+Barrow and Furness,Reform UK,36.96,Conservative,26.85,10.11,0.994,Safe Reform,26.85,20.78,7.05,7.07,0.0,0.0,1.28
+Rother Valley,Reform UK,39.47,Conservative,29.39,10.08,0.994,Safe Reform,29.39,15.99,6.84,8.3,0.0,0.0,0.0
+Beverley and Holderness,Reform UK,38.32,Conservative,28.4,9.91,0.993,Safe Reform,28.4,15.06,9.56,6.35,0.0,0.0,2.32
+Burton and Uttoxeter,Reform UK,35.59,Conservative,25.81,9.78,0.993,Safe Reform,25.81,17.14,8.13,9.88,0.0,0.0,3.44
+Dagenham and Rainham,Reform UK,32.67,Labour,22.89,9.78,0.993,Safe Reform,14.54,22.89,10.94,16.1,0.0,0.0,2.86
+Erewash,Reform UK,33.7,Conservative,23.96,9.74,0.993,Safe Reform,23.96,21.08,7.66,11.46,0.0,0.0,2.14
+Wolverhampton South East,Reform UK,36.09,Labour,26.26,9.83,0.993,Safe Reform,16.39,26.26,7.64,10.16,0.0,0.0,3.47
+Morecambe and Lunesdale,Reform UK,34.26,Conservative,24.6,9.66,0.992,Safe Reform,24.6,21.16,12.39,7.59,0.0,0.0,0.0
+Rayleigh and Wickford,Reform UK,38.94,Conservative,29.39,9.56,0.992,Safe Reform,29.39,10.78,12.64,8.26,0.0,0.0,0.0
+Sleaford and North Hykeham,Reform UK,37.87,Conservative,28.31,9.57,0.992,Safe Reform,28.31,11.19,9.46,8.32,0.0,0.0,4.85
+Bolton West,Reform UK,33.22,Conservative,23.68,9.55,0.991,Safe Reform,23.68,20.72,7.66,13.46,0.0,0.0,1.26
+Pontypridd,Reform UK,29.99,Labour,20.49,9.5,0.991,Safe Reform,9.02,20.49,6.23,13.1,0.0,15.83,5.35
+Aberafan Maesteg,Reform UK,31.53,Plaid Cymru,22.4,9.13,0.989,Safe Reform,9.69,17.07,5.77,11.86,0.0,22.4,1.67
+Luton South and South Bedfordshire,Reform UK,29.25,Labour,20.05,9.2,0.989,Safe Reform,14.71,20.05,11.07,11.13,0.0,0.0,13.79
+Wellingborough and Rushden,Reform UK,34.5,Conservative,25.37,9.13,0.989,Safe Reform,25.37,20.22,7.01,11.06,0.0,0.0,1.85
+Halesowen,Reform UK,34.26,Conservative,25.23,9.02,0.988,Safe Reform,25.23,22.17,8.12,10.22,0.0,0.0,0.0
+Folkestone and Hythe,Reform UK,33.46,Conservative,24.51,8.95,0.987,Safe Reform,24.51,17.85,8.37,14.11,0.0,0.0,1.7
+Isle of Wight East,Reform UK,32.39,Conservative,23.51,8.89,0.987,Safe Reform,23.51,9.78,12.28,20.53,0.0,0.0,1.51
+Staffordshire Moorlands,Reform UK,38.25,Conservative,29.38,8.87,0.987,Safe Reform,29.38,15.4,7.54,9.44,0.0,0.0,0.0
+Southend East and Rochford,Reform UK,33.55,Conservative,24.75,8.8,0.986,Safe Reform,24.75,18.69,9.05,11.22,0.0,0.0,2.74
+Warrington South,Reform UK,32.98,Labour,24.25,8.73,0.985,Safe Reform,20.24,24.25,11.06,10.04,0.0,0.0,1.43
+Gloucester,Reform UK,32.8,Conservative,24.25,8.56,0.984,Safe Reform,24.25,19.27,12.38,8.0,0.0,0.0,3.31
+Plymouth Sutton and Devonport,Reform UK,34.71,Labour,26.15,8.56,0.984,Safe Reform,14.55,26.15,9.6,11.93,0.0,0.0,3.05
+Congleton,Reform UK,33.99,Conservative,25.72,8.27,0.981,Safe Reform,25.72,17.75,10.13,8.68,0.0,0.0,3.73
+Lowestoft,Reform UK,36.04,Conservative,27.76,8.27,0.981,Safe Reform,27.76,17.58,6.4,12.22,0.0,0.0,0.0
+Calder Valley,Reform UK,31.65,Conservative,23.46,8.19,0.98,Safe Reform,23.46,22.84,7.11,12.89,0.0,0.0,2.05
+Stevenage,Reform UK,31.34,Conservative,23.09,8.26,0.98,Safe Reform,23.09,22.61,10.07,11.42,0.0,0.0,1.47
+Lincoln,Reform UK,32.67,Labour,24.56,8.11,0.979,Safe Reform,20.2,24.56,9.1,10.76,0.0,0.0,2.72
+Gillingham and Rainham,Reform UK,33.57,Conservative,25.51,8.06,0.978,Safe Reform,25.51,19.66,9.21,10.3,0.0,0.0,1.75
+Wyre Forest,Reform UK,35.39,Conservative,27.36,8.03,0.978,Safe Reform,27.36,14.74,10.34,8.56,0.0,0.0,3.61
+Stoke-on-Trent South,Reform UK,36.65,Conservative,28.65,8.0,0.977,Safe Reform,28.65,17.45,8.13,5.98,0.0,0.0,3.13
+West Suffolk,Reform UK,35.58,Conservative,27.67,7.92,0.976,Safe Reform,27.67,12.37,11.35,10.66,0.0,0.0,2.37
+Pendle and Clitheroe,Reform UK,35.19,Conservative,27.38,7.81,0.975,Safe Reform,27.38,17.35,7.69,7.18,0.0,0.0,5.22
+North West Leicestershire,Reform UK,35.31,Conservative,27.56,7.75,0.974,Safe Reform,27.56,16.8,7.12,10.13,0.0,0.0,3.09
+Bournemouth West,Reform UK,31.64,Conservative,23.94,7.7,0.973,Safe Reform,23.94,19.56,15.11,8.14,0.0,0.0,1.6
+Harlow,Reform UK,35.66,Conservative,27.98,7.68,0.973,Safe Reform,27.98,17.8,6.09,10.72,0.0,0.0,1.75
+Leeds East,Reform UK,32.66,Labour,24.97,7.69,0.973,Safe Reform,16.51,24.97,6.73,15.11,0.0,0.0,4.03
+Bury North,Reform UK,31.65,Conservative,24.13,7.52,0.97,Safe Reform,24.13,23.34,6.06,10.34,0.0,0.0,4.48
+Bury South,Reform UK,32.36,Labour,24.88,7.48,0.969,Safe Reform,20.14,24.88,8.07,11.22,0.0,0.0,3.33
+Hornchurch and Upminster,Reform UK,33.9,Conservative,26.45,7.45,0.969,Safe Reform,26.45,12.28,17.07,8.4,0.0,0.0,1.9
+Southampton Itchen,Reform UK,30.67,Labour,23.19,7.48,0.969,Safe Reform,22.98,23.19,9.43,12.49,0.0,0.0,1.24
+West Bromwich,Reform UK,32.83,Labour,25.38,7.45,0.969,Safe Reform,19.19,25.38,7.49,10.7,0.0,0.0,4.41
+Maldon,Reform UK,38.44,Conservative,31.05,7.39,0.968,Safe Reform,31.05,10.27,12.75,7.49,0.0,0.0,0.0
+East Thanet,Reform UK,30.38,Conservative,23.03,7.35,0.967,Safe Reform,23.03,20.62,7.55,16.19,0.0,0.0,2.23
+South Shields,Reform UK,30.91,The Green Party,23.56,7.35,0.967,Safe Reform,11.75,20.13,7.7,23.56,0.0,0.0,5.95
+South Dorset,Reform UK,32.83,Conservative,25.57,7.26,0.965,Safe Reform,25.57,17.09,16.62,6.46,0.0,0.0,1.43
+Gainsborough,Reform UK,36.88,Conservative,29.86,7.02,0.96,Safe Reform,29.86,14.62,12.22,4.97,0.0,0.0,1.45
+Nuneaton,Reform UK,33.29,Conservative,26.27,7.02,0.96,Safe Reform,26.27,18.88,6.39,12.41,0.0,0.0,2.75
+The Wrekin,Reform UK,33.97,Conservative,27.12,6.85,0.957,Safe Reform,27.12,16.34,11.66,9.54,0.0,0.0,1.37
+Luton North,Reform UK,29.03,Labour,22.23,6.8,0.955,Safe Reform,15.71,22.23,9.54,10.72,0.0,0.0,12.77
+Swindon South,Reform UK,30.57,Labour,23.78,6.79,0.955,Safe Reform,23.49,23.78,7.89,12.66,0.0,0.0,1.61
+Dunstable and Leighton Buzzard,Reform UK,32.3,Conservative,25.6,6.7,0.953,Safe Reform,25.6,17.35,16.04,7.51,0.0,0.0,1.2
+St Helens North,Reform UK,33.92,Labour,27.23,6.69,0.953,Safe Reform,12.33,27.23,7.86,16.91,0.0,0.0,1.75
+Torridge and Tavistock,Reform UK,32.76,Conservative,26.06,6.7,0.953,Safe Reform,26.06,11.82,21.74,6.32,0.0,0.0,1.3
+Truro and Falmouth,Reform UK,28.65,Labour,21.94,6.71,0.953,Safe Reform,21.32,21.94,15.64,10.73,0.0,0.0,1.72
+Hyndburn,Reform UK,33.73,Conservative,27.06,6.67,0.952,Safe Reform,27.06,16.22,5.01,17.97,0.0,0.0,0.0
+Grantham and Bourne,Reform UK,35.95,Conservative,29.36,6.59,0.95,Safe Reform,29.36,12.11,8.16,9.66,0.0,0.0,4.76
+Ribble Valley,Reform UK,34.32,Conservative,27.79,6.53,0.949,Safe Reform,27.79,17.77,10.42,7.61,0.0,0.0,2.09
+York Outer,Reform UK,29.42,Conservative,22.9,6.53,0.949,Safe Reform,22.9,22.67,14.58,8.69,0.0,0.0,1.73
+Christchurch,Reform UK,33.59,Conservative,27.1,6.5,0.948,Safe Reform,27.1,8.05,21.4,6.67,0.0,0.0,3.19
+Crawley,Reform UK,30.47,Conservative,23.98,6.49,0.948,Safe Reform,23.98,20.23,7.9,13.47,0.0,0.0,3.95
+Redcar,Reform UK,36.3,Conservative,29.81,6.49,0.948,Safe Reform,29.81,17.13,9.36,6.02,0.0,0.0,1.39
+Poole,Reform UK,32.54,Conservative,26.09,6.46,0.947,Safe Reform,26.09,14.85,16.26,7.91,0.0,0.0,2.35
+Goole and Pocklington,Reform UK,36.83,Conservative,30.41,6.42,0.946,Safe Reform,30.41,12.62,9.98,8.44,0.0,0.0,1.73
+Broxtowe,Reform UK,29.32,Labour,22.93,6.38,0.945,Safe Reform,20.45,22.93,10.45,13.06,0.0,0.0,3.8
+Northampton South,Reform UK,31.8,Conservative,25.4,6.4,0.945,Safe Reform,25.4,21.86,9.69,9.64,0.0,0.0,1.62
+Alloa and Grangemouth,Reform UK,32.81,Scottish National Party (SNP),26.5,6.31,0.943,Safe Reform,7.96,14.26,5.85,6.12,26.5,0.0,6.5
+Corby and East Northamptonshire,Reform UK,32.19,Conservative,25.91,6.28,0.942,Safe Reform,25.91,22.05,8.29,9.95,0.0,0.0,1.61
+Wycombe,Reform UK,27.02,Conservative,20.73,6.3,0.942,Safe Reform,20.73,19.8,14.45,10.29,0.0,0.0,7.71
+Hereford and South Herefordshire,Reform UK,33.23,Conservative,26.96,6.27,0.941,Safe Reform,26.96,14.99,14.59,9.03,0.0,0.0,1.19
+Isle of Wight West,Reform UK,31.62,Conservative,25.38,6.23,0.94,Safe Reform,25.38,18.37,12.24,11.17,0.0,0.0,1.23
+Rhondda and Ogmore,Reform UK,32.59,Plaid Cymru,26.45,6.14,0.938,Safe Reform,7.97,14.49,6.1,12.4,0.0,26.45,0.0
+Exmouth and Exeter East,Reform UK,30.55,Conservative,24.52,6.04,0.934,Safe Reform,24.52,13.1,16.92,10.61,0.0,0.0,4.3
+Swindon North,Reform UK,32.76,Conservative,26.96,5.8,0.927,Safe Reform,26.96,18.97,7.58,12.15,0.0,0.0,1.59
+Derby North,Reform UK,32.4,Labour,26.61,5.79,0.926,Safe Reform,21.13,26.61,8.4,11.47,0.0,0.0,0.0
+Nottingham North and Kimberley,Reform UK,33.09,Labour,27.3,5.79,0.926,Safe Reform,16.88,27.3,7.9,14.83,0.0,0.0,0.0
+Bognor Regis and Littlehampton,Reform UK,33.67,Conservative,27.95,5.72,0.924,Safe Reform,27.95,15.03,14.09,7.67,0.0,0.0,1.6
+North West Norfolk,Reform UK,35.42,Conservative,29.69,5.73,0.924,Safe Reform,29.69,12.72,13.72,8.45,0.0,0.0,0.0
+Wrexham,Reform UK,26.95,Conservative,21.29,5.67,0.922,Safe Reform,21.29,18.06,6.32,11.9,0.0,11.38,4.1
+Northampton North,Reform UK,30.52,Labour,24.95,5.57,0.918,Safe Reform,20.36,24.95,9.15,10.33,0.0,0.0,4.68
+Ipswich,Reform UK,29.67,Conservative,24.13,5.54,0.917,Safe Reform,24.13,23.53,7.02,13.84,0.0,0.0,1.81
+Macclesfield,Reform UK,30.45,Conservative,24.91,5.54,0.917,Safe Reform,24.91,22.91,8.47,11.52,0.0,0.0,1.75
+Braintree,Reform UK,35.62,Conservative,30.11,5.51,0.916,Safe Reform,30.11,12.87,8.71,10.05,0.0,0.0,2.65
+Mid Bedfordshire,Reform UK,33.08,Conservative,27.58,5.5,0.915,Safe Reform,27.58,14.17,13.2,8.59,0.0,0.0,3.38
+Kettering,Reform UK,29.85,Conservative,24.37,5.47,0.914,Safe Reform,24.37,17.81,6.55,18.7,0.0,0.0,2.72
+Colne Valley,Reform UK,31.39,Conservative,25.96,5.44,0.913,Safe Reform,25.96,21.45,7.16,12.02,0.0,0.0,2.01
+Filton and Bradley Stoke,Reform UK,29.39,Labour,23.96,5.43,0.913,Safe Reform,21.58,23.96,10.94,14.13,0.0,0.0,0.0
+Lichfield,Reform UK,34.31,Conservative,28.9,5.41,0.912,Safe Reform,28.9,17.76,9.33,8.13,0.0,0.0,1.57
+Ashford,Reform UK,30.92,Conservative,25.53,5.38,0.911,Safe Reform,25.53,16.62,9.43,15.16,0.0,0.0,2.34
+Bexhill and Battle,Reform UK,32.6,Conservative,27.21,5.39,0.911,Safe Reform,27.21,13.03,13.4,9.24,0.0,0.0,4.53
+Havant,Reform UK,33.41,Conservative,28.04,5.37,0.91,Safe Reform,28.04,16.16,9.97,11.18,0.0,0.0,1.23
+South West Devon,Reform UK,33.76,Conservative,28.4,5.37,0.91,Safe Reform,28.4,14.14,11.46,10.61,0.0,0.0,1.62
+Aldershot,Reform UK,30.66,Conservative,25.32,5.34,0.909,Safe Reform,25.32,20.98,11.82,10.26,0.0,0.0,0.96
+Bradford East,Reform UK,27.88,Labour,22.54,5.34,0.909,Safe Reform,10.85,22.54,9.97,12.88,0.0,0.0,15.88
+Bromsgrove,Reform UK,32.44,Conservative,27.1,5.33,0.909,Safe Reform,27.1,15.14,15.28,7.35,0.0,0.0,2.69
+Harwich and North Essex,Reform UK,34.67,Conservative,29.35,5.32,0.908,Safe Reform,29.35,17.41,9.71,8.86,0.0,0.0,0.0
+Coventry East,Reform UK,32.22,Labour,26.95,5.27,0.906,Safe Reform,14.53,26.95,9.21,13.25,0.0,0.0,3.84
+Mid Norfolk,Reform UK,36.29,Conservative,31.12,5.17,0.902,Safe Reform,31.12,14.29,8.27,10.03,0.0,0.0,0.0
+Coventry North West,Reform UK,30.95,Labour,25.82,5.13,0.9,Safe Reform,18.82,25.82,8.38,14.23,0.0,0.0,1.8
+Sheffield South East,Reform UK,28.48,Labour,23.44,5.04,0.896,Safe Reform,15.13,23.44,11.15,14.15,0.0,0.0,7.64
+Faversham and Mid Kent,Reform UK,32.14,Conservative,27.13,5.02,0.895,Safe Reform,27.13,14.97,11.52,13.27,0.0,0.0,0.97
+Newton Abbot,Reform UK,31.85,Liberal Democrat,26.87,4.98,0.893,Safe Reform,21.37,10.5,26.87,6.19,0.0,0.0,3.22
+Loughborough,Reform UK,29.59,Conservative,24.69,4.9,0.89,Safe Reform,24.69,24.56,8.95,12.21,0.0,0.0,0.0
+Norwich North,Reform UK,28.3,Labour,23.4,4.9,0.89,Safe Reform,21.29,23.4,7.39,17.71,0.0,0.0,1.91
+Bournemouth East,Reform UK,29.31,Conservative,24.45,4.87,0.888,Safe Reform,24.45,20.61,12.15,10.38,0.0,0.0,3.1
+Hemel Hempstead,Reform UK,29.73,Conservative,24.86,4.87,0.888,Safe Reform,24.86,22.94,12.1,10.38,0.0,0.0,0.0
+East Worthing and Shoreham,Reform UK,28.16,Labour,23.37,4.79,0.885,Safe Reform,22.88,23.37,9.7,14.41,0.0,0.0,1.49
+Lancaster and Wyre,Reform UK,29.31,Labour,24.52,4.79,0.884,Safe Reform,20.83,24.52,7.34,17.99,0.0,0.0,0.0
+South West Wiltshire,Reform UK,32.47,Conservative,27.78,4.69,0.879,Safe Reform,27.78,13.88,15.73,8.07,0.0,0.0,2.08
+Stafford,Reform UK,31.92,Conservative,27.29,4.64,0.877,Safe Reform,27.29,20.68,6.78,11.76,0.0,0.0,1.57
+Skipton and Ripon,Reform UK,33.79,Conservative,29.16,4.63,0.876,Safe Reform,29.16,14.21,9.79,10.52,0.0,0.0,2.53
+Dartford,Reform UK,32.38,Conservative,27.81,4.58,0.874,Safe Reform,27.81,19.59,7.68,12.54,0.0,0.0,0.0
+Birmingham Northfield,Reform UK,29.35,Labour,24.8,4.55,0.872,Safe Reform,24.37,24.8,6.45,12.29,0.0,0.0,2.73
+South Norfolk,Reform UK,29.63,Conservative,25.09,4.54,0.872,Safe Reform,25.09,18.59,11.74,13.36,0.0,0.0,1.59
+Rugby,Reform UK,31.34,Conservative,26.82,4.52,0.871,Safe Reform,26.82,21.45,9.51,9.6,0.0,0.0,1.28
+St Helens South and Whiston,Reform UK,31.12,Labour,26.75,4.37,0.863,Safe Reform,10.74,26.75,9.59,14.4,0.0,0.0,7.4
+Redditch,Reform UK,33.51,Conservative,29.16,4.35,0.862,Safe Reform,29.16,18.26,7.54,9.46,0.0,0.0,2.06
+Birmingham Erdington,Reform UK,31.1,Labour,26.79,4.31,0.859,Safe Reform,18.04,26.79,6.36,11.83,0.0,0.0,5.88
+Daventry,Reform UK,33.32,Conservative,29.04,4.27,0.857,Safe Reform,29.04,16.0,12.23,9.41,0.0,0.0,0.0
+Gravesham,Reform UK,33.06,Conservative,28.8,4.26,0.857,Safe Reform,28.8,20.68,6.72,10.75,0.0,0.0,0.0
+North East Derbyshire,Reform UK,33.48,Conservative,29.21,4.26,0.857,Safe Reform,29.21,19.0,7.79,9.35,0.0,0.0,1.17
+Broadland and Fakenham,Reform UK,32.59,Conservative,28.34,4.24,0.856,Safe Reform,28.34,16.88,11.73,10.46,0.0,0.0,0.0
+Gedling,Reform UK,30.44,Labour,26.29,4.16,0.851,Safe Reform,20.78,26.29,7.88,13.31,0.0,0.0,1.31
+High Peak,Reform UK,29.62,Conservative,25.48,4.14,0.85,Likely Reform,25.48,25.31,6.69,12.9,0.0,0.0,0.0
+Falkirk,Reform UK,32.44,Scottish National Party (SNP),28.32,4.12,0.848,Likely Reform,8.45,13.52,5.46,5.88,28.32,0.0,5.93
+North East Somerset and Hanham,Reform UK,30.04,Conservative,25.94,4.1,0.847,Likely Reform,25.94,20.24,12.27,9.87,0.0,0.0,1.64
+Bexleyheath and Crayford,Reform UK,31.92,Conservative,28.01,3.91,0.836,Likely Reform,28.01,21.3,8.7,10.08,0.0,0.0,0.0
+Tiverton and Minehead,Reform UK,30.97,Liberal Democrat,27.06,3.91,0.836,Likely Reform,25.43,9.65,27.06,6.9,0.0,0.0,0.0
+Shrewsbury,Reform UK,28.7,Labour,24.81,3.89,0.835,Likely Reform,20.74,24.81,14.64,9.75,0.0,0.0,1.37
+Stourbridge,Reform UK,32.03,Conservative,28.14,3.89,0.835,Likely Reform,28.14,21.07,6.98,8.7,0.0,0.0,3.07
+Brentwood and Ongar,Reform UK,35.07,Conservative,31.18,3.89,0.834,Likely Reform,31.18,12.93,12.49,6.85,0.0,0.0,1.47
+Cowdenbeath and Kirkcaldy,Reform UK,27.66,Scottish National Party (SNP),23.86,3.8,0.829,Likely Reform,7.14,18.37,7.39,9.69,23.86,0.0,5.89
+Southend West and Leigh,Reform UK,30.93,Conservative,27.15,3.78,0.827,Likely Reform,27.15,18.47,9.63,11.54,0.0,0.0,2.27
+Widnes and Halewood,Reform UK,34.99,Labour,31.31,3.68,0.821,Likely Reform,9.18,31.31,8.97,13.97,0.0,0.0,1.58
+Birmingham Hodge Hill and Solihull North,Reform UK,24.0,Labour,20.4,3.6,0.816,Likely Reform,19.52,20.4,5.43,14.18,0.0,0.0,16.48
+Central Ayrshire,Reform UK,29.09,Scottish National Party (SNP),25.53,3.56,0.813,Likely Reform,13.52,16.71,5.62,5.86,25.53,0.0,3.67
+Basingstoke,Reform UK,28.21,Conservative,24.78,3.43,0.804,Likely Reform,24.78,20.69,12.27,12.74,0.0,0.0,1.29
+Suffolk Coastal,Reform UK,29.5,Conservative,26.13,3.38,0.801,Likely Reform,26.13,17.92,13.1,13.35,0.0,0.0,0.0
+North East Hertfordshire,Reform UK,30.08,Conservative,26.72,3.37,0.8,Likely Reform,26.72,19.37,11.5,12.33,0.0,0.0,0.0
+Central Devon,Reform UK,30.06,Conservative,26.79,3.26,0.793,Likely Reform,26.79,16.88,15.76,9.18,0.0,0.0,1.33
+Portsmouth North,Reform UK,33.62,Conservative,30.44,3.18,0.787,Likely Reform,30.44,16.42,12.8,6.73,0.0,0.0,0.0
+Bracknell,Reform UK,30.07,Conservative,26.91,3.16,0.785,Likely Reform,26.91,18.06,12.21,11.28,0.0,0.0,1.48
+Herne Bay and Sandwich,Reform UK,33.46,Conservative,30.33,3.14,0.784,Likely Reform,30.33,15.3,9.18,11.73,0.0,0.0,0.0
+Aldridge-Brownhills,Reform UK,36.65,Conservative,33.57,3.08,0.779,Likely Reform,33.57,15.62,5.95,8.22,0.0,0.0,0.0
+Thirsk and Malton,Reform UK,34.8,Conservative,31.75,3.05,0.777,Likely Reform,31.75,10.89,10.67,9.59,0.0,0.0,2.3
+Caerphilly,Reform UK,26.4,Plaid Cymru,23.36,3.04,0.776,Likely Reform,11.01,19.68,6.83,12.72,0.0,23.36,0.0
+Birmingham Yardley,Reform UK,26.08,Labour,23.11,2.97,0.771,Likely Reform,12.81,23.11,13.03,9.12,0.0,0.0,15.85
+Maidstone and Malling,Reform UK,29.29,Conservative,26.32,2.96,0.771,Likely Reform,26.32,16.06,15.05,12.14,0.0,0.0,1.15
+Hamilton and Clyde Valley,Reform UK,27.79,Scottish National Party (SNP),24.88,2.91,0.767,Likely Reform,9.93,20.47,7.38,8.16,24.88,0.0,1.39
+Hastings and Rye,Reform UK,25.96,Labour,23.11,2.84,0.761,Likely Reform,22.64,23.11,8.31,18.37,0.0,0.0,1.61
+Central Suffolk and North Ipswich,Reform UK,30.23,Conservative,27.4,2.82,0.76,Likely Reform,27.4,13.22,9.83,17.57,0.0,0.0,1.75
+South Shropshire,Reform UK,31.63,Conservative,28.81,2.82,0.759,Likely Reform,28.81,11.89,21.81,5.86,0.0,0.0,0.0
+North East Cambridgeshire,Reform UK,36.85,Conservative,34.18,2.67,0.748,Likely Reform,34.18,9.8,7.83,8.27,0.0,0.0,3.07
+North West Cambridgeshire,Reform UK,31.64,Conservative,29.13,2.51,0.735,Likely Reform,29.13,17.84,9.52,11.87,0.0,0.0,0.0
+Chester North and Neston,Reform UK,29.52,Labour,27.06,2.47,0.731,Likely Reform,19.35,27.06,7.45,16.62,0.0,0.0,0.0
+Shipley,Reform UK,27.72,Conservative,25.27,2.45,0.73,Likely Reform,25.27,23.68,5.5,14.72,0.0,0.0,3.12
+Forest of Dean,Reform UK,31.14,Conservative,28.73,2.41,0.727,Likely Reform,28.73,15.58,8.69,14.45,0.0,0.0,1.4
+Newcastle upon Tyne Central and West,Reform UK,29.68,Labour,27.27,2.41,0.726,Likely Reform,9.94,27.27,11.04,13.84,0.0,0.0,8.25
+South Leicestershire,Reform UK,32.62,Conservative,30.25,2.37,0.723,Likely Reform,30.25,15.13,13.08,8.93,0.0,0.0,0.0
+East Wiltshire,Reform UK,32.33,Conservative,29.98,2.35,0.721,Likely Reform,29.98,13.56,14.55,8.38,0.0,0.0,1.2
+South Suffolk,Reform UK,30.45,Conservative,28.16,2.3,0.717,Likely Reform,28.16,14.31,13.73,13.35,0.0,0.0,0.0
+Bangor Aberconwy,Reform UK,23.26,Plaid Cymru,20.97,2.29,0.716,Likely Reform,16.79,17.19,6.0,12.1,0.0,20.97,3.69
+Swansea West,Reform UK,24.69,Labour,22.49,2.21,0.71,Likely Reform,9.76,22.49,9.64,14.82,0.0,17.02,1.58
+Colchester,Reform UK,27.49,Labour,25.28,2.21,0.709,Likely Reform,21.77,25.28,14.58,9.51,0.0,0.0,1.37
+Peterborough,Reform UK,28.85,Conservative,26.74,2.11,0.701,Likely Reform,26.74,16.95,6.93,12.15,0.0,0.0,8.38
+Clwyd East,Reform UK,26.41,Conservative,24.37,2.03,0.694,Likely Reform,24.37,16.16,6.94,12.97,0.0,8.62,4.53
+Leeds West and Pudsey,Reform UK,28.82,Labour,26.82,2.0,0.691,Likely Reform,17.54,26.82,5.88,17.25,0.0,0.0,3.7
+Romford,Reform UK,31.48,Conservative,29.54,1.93,0.686,Likely Reform,29.54,16.27,11.25,8.44,0.0,0.0,3.02
+Mid Derbyshire,Reform UK,30.23,Conservative,28.33,1.9,0.683,Likely Reform,28.33,19.09,7.16,13.47,0.0,0.0,1.73
+Torbay,Reform UK,29.87,Liberal Democrat,27.99,1.88,0.681,Likely Reform,26.23,10.52,27.99,4.14,0.0,0.0,1.25
+Hitchin,Reform UK,27.15,Conservative,25.28,1.87,0.68,Likely Reform,25.28,23.7,12.49,10.12,0.0,0.0,1.25
+Buckingham and Bletchley,Reform UK,29.22,Conservative,27.43,1.79,0.673,Likely Reform,27.43,20.0,10.79,11.44,0.0,0.0,1.13
+Hinckley and Bosworth,Reform UK,31.45,Conservative,29.69,1.76,0.67,Likely Reform,29.69,13.19,19.25,5.3,0.0,0.0,1.13
+Derbyshire Dales,Reform UK,30.57,Conservative,28.83,1.75,0.669,Likely Reform,28.83,18.29,10.75,9.99,0.0,0.0,1.56
+Worcester,Reform UK,25.11,Labour,23.38,1.73,0.667,Likely Reform,23.29,23.38,10.4,16.22,0.0,0.0,1.61
+Dunfermline and Dollar,Reform UK,26.51,Scottish National Party (SNP),24.81,1.69,0.664,Likely Reform,7.39,15.77,10.91,8.42,24.81,0.0,6.19
+Vale of Glamorgan,Reform UK,26.63,Conservative,24.99,1.64,0.659,Likely Reform,24.99,16.65,6.2,13.76,0.0,7.81,3.96
+North West Essex,Reform UK,30.72,Conservative,29.18,1.54,0.65,Likely Reform,29.18,14.75,13.87,8.78,0.0,0.0,2.7
+North Bedfordshire,Reform UK,32.62,Conservative,31.19,1.44,0.64,Likely Reform,31.19,14.31,13.38,8.49,0.0,0.0,0.0
+Livingston,Reform UK,29.82,Scottish National Party (SNP),28.48,1.34,0.632,Likely Reform,7.26,14.39,7.2,8.02,28.48,0.0,4.83
+Bury St Edmunds and Stowmarket,Reform UK,27.99,Conservative,26.7,1.29,0.626,Likely Reform,26.7,16.1,7.61,18.54,0.0,0.0,3.06
+"Moray West, Nairn and Strathspey",Reform UK,25.97,Conservative,24.71,1.26,0.624,Likely Reform,24.71,6.97,11.3,3.34,23.97,0.0,3.75
+North West Hampshire,Reform UK,29.79,Conservative,28.56,1.23,0.621,Likely Reform,28.56,14.94,16.73,8.92,0.0,0.0,1.06
+Witham,Reform UK,32.75,Conservative,31.53,1.21,0.619,Likely Reform,31.53,13.45,8.27,11.38,0.0,0.0,2.63
+East Surrey,Reform UK,29.27,Conservative,28.11,1.16,0.614,Likely Reform,28.11,11.43,20.4,8.64,0.0,0.0,2.16
+Smethwick,Reform UK,28.94,Labour,27.92,1.02,0.601,Likely Reform,13.04,27.92,7.31,14.92,0.0,0.0,7.87
+Clwyd North,Reform UK,28.05,Conservative,27.1,0.95,0.594,Toss-up,27.1,16.24,6.53,11.54,0.0,10.55,0.0
+Huntingdon,Reform UK,30.63,Conservative,29.69,0.94,0.593,Toss-up,29.69,16.52,10.58,9.97,0.0,0.0,2.61
+Gateshead Central and Whickham,Reform UK,29.86,Labour,28.99,0.88,0.587,Toss-up,12.22,28.99,14.25,12.73,0.0,0.0,1.95
+City of Durham,Reform UK,30.17,Labour,29.31,0.87,0.586,Toss-up,11.69,29.31,17.15,10.52,0.0,0.0,1.16
+Milton Keynes North,Reform UK,26.9,Conservative,26.05,0.85,0.584,Toss-up,26.05,24.2,9.89,12.97,0.0,0.0,0.0
+Bathgate and Linlithgow,Reform UK,25.57,Scottish National Party (SNP),24.8,0.77,0.576,Toss-up,7.89,18.84,8.89,8.75,24.8,0.0,5.24
+Mid and South Pembrokeshire,Reform UK,28.23,Conservative,27.46,0.77,0.576,Toss-up,27.46,10.79,7.62,13.42,0.0,9.16,3.32
+Spelthorne,Reform UK,27.36,Conservative,26.62,0.74,0.573,Toss-up,26.62,17.05,18.28,9.59,0.0,0.0,1.11
+North Dorset,Reform UK,30.35,Conservative,29.63,0.72,0.572,Toss-up,29.63,9.05,23.12,6.62,0.0,0.0,1.24
+Fareham and Waterlooville,Reform UK,30.23,Conservative,29.64,0.58,0.558,Toss-up,29.64,14.04,16.74,8.25,0.0,0.0,1.1
+South Northamptonshire,Reform UK,30.52,Conservative,30.05,0.47,0.547,Toss-up,30.05,15.28,10.89,10.17,0.0,0.0,3.09
+Midlothian,Reform UK,26.73,Scottish National Party (SNP),26.28,0.45,0.545,Toss-up,7.11,19.61,9.53,8.86,26.28,0.0,1.88
+Banbury,Reform UK,27.41,Conservative,27.03,0.38,0.538,Toss-up,27.03,20.59,11.95,11.17,0.0,0.0,1.86
+Blackley and Middleton South,Reform UK,32.07,Labour,31.7,0.37,0.537,Toss-up,10.84,31.7,8.44,16.95,0.0,0.0,0.0
+Kingswinford and South Staffordshire,Reform UK,34.25,Conservative,33.96,0.3,0.53,Toss-up,33.96,13.46,6.84,9.12,0.0,0.0,2.37
+Aylesbury,Reform UK,25.3,Conservative,25.01,0.29,0.529,Toss-up,25.01,18.81,20.15,9.53,0.0,0.0,1.21
+Leicester West,Reform UK,27.7,Labour,27.47,0.23,0.523,Toss-up,17.23,27.47,9.4,15.74,0.0,0.0,2.45
+Stroud,Reform UK,23.82,Labour,23.6,0.22,0.522,Toss-up,23.4,23.6,8.16,19.52,0.0,0.0,1.5
+"Motherwell, Wishaw and Carluke",Reform UK,29.23,Scottish National Party (SNP),29.03,0.2,0.52,Toss-up,7.14,19.4,4.89,6.19,29.03,0.0,4.13
+Chester South and Eddisbury,Reform UK,30.94,Conservative,30.89,0.04,0.504,Toss-up,30.89,16.61,11.79,7.52,0.0,0.0,2.25
+Melton and Syston,Reform UK,31.85,Conservative,31.85,0.0,0.5,Toss-up,31.85,13.75,8.01,12.08,0.0,0.0,2.46
+Sefton Central,Labour,29.37,Labour,29.42,-0.04,0.496,Toss-up,13.96,29.42,9.51,16.36,0.0,0.0,1.38
+Newark,Conservative,32.32,Conservative,32.39,-0.07,0.493,Toss-up,32.39,15.83,9.11,7.94,0.0,0.0,2.41
+Wolverhampton West,Labour,26.69,Labour,26.79,-0.1,0.49,Toss-up,24.13,26.79,6.36,11.19,0.0,0.0,4.84
+Ely and East Cambridgeshire,Conservative,26.15,Conservative,26.35,-0.2,0.48,Toss-up,26.35,13.65,24.04,8.22,0.0,0.0,1.58
+Frome and East Somerset,Liberal Democrat,25.79,Liberal Democrat,26.0,-0.21,0.479,Toss-up,20.01,12.27,26.0,14.0,0.0,0.0,1.92
+Leeds North West,Labour,26.02,Labour,26.26,-0.24,0.476,Toss-up,19.97,26.26,11.25,13.93,0.0,0.0,2.57
+North Somerset,Conservative,27.41,Conservative,27.71,-0.3,0.471,Toss-up,27.71,16.9,16.54,10.57,0.0,0.0,0.87
+North Norfolk,Conservative,29.14,Conservative,29.52,-0.37,0.463,Toss-up,29.52,9.28,28.09,3.96,0.0,0.0,0.0
+Southampton Test,Labour,26.42,Labour,26.87,-0.45,0.455,Toss-up,16.35,26.87,10.97,16.95,0.0,0.0,2.45
+Bedford,Labour,25.64,Labour,26.12,-0.48,0.453,Toss-up,19.98,26.12,13.1,10.74,0.0,0.0,4.43
+Ellesmere Port and Bromborough,Labour,30.88,Labour,31.37,-0.49,0.451,Toss-up,12.6,31.37,10.61,13.18,0.0,0.0,1.35
+Sussex Weald,Conservative,28.18,Conservative,28.67,-0.49,0.451,Toss-up,28.67,11.44,17.55,11.92,0.0,0.0,2.24
+Welwyn Hatfield,Conservative,27.89,Conservative,28.38,-0.49,0.451,Toss-up,28.38,24.27,9.49,9.97,0.0,0.0,0.0
+Melksham and Devizes,Conservative,27.54,Conservative,28.08,-0.54,0.446,Toss-up,28.08,10.19,26.71,7.47,0.0,0.0,0.0
+Broxbourne,Conservative,31.54,Conservative,32.17,-0.63,0.437,Toss-up,32.17,16.78,7.04,10.41,0.0,0.0,2.07
+"Ayr, Carrick and Cumnock",Labour,20.46,Labour,21.1,-0.65,0.436,Toss-up,19.69,21.1,6.57,7.92,20.98,0.0,3.29
+Tynemouth,Labour,28.02,Labour,28.69,-0.67,0.434,Toss-up,17.22,28.69,7.62,15.74,0.0,0.0,2.7
+East Kilbride and Strathaven,Scottish National Party (SNP),27.12,Scottish National Party (SNP),27.82,-0.71,0.43,Toss-up,8.18,18.85,5.55,6.95,27.82,0.0,5.53
+Ynys Môn,Plaid Cymru,23.96,Plaid Cymru,24.67,-0.71,0.429,Toss-up,23.57,9.03,5.32,10.17,0.0,24.67,3.28
+Reading West and Mid Berkshire,Conservative,26.6,Conservative,27.34,-0.73,0.427,Toss-up,27.34,19.63,13.33,11.71,0.0,0.0,1.4
+Wirral West,Labour,26.43,Labour,27.19,-0.77,0.424,Toss-up,23.26,27.19,6.96,16.16,0.0,0.0,0.0
+Cardiff West,Labour,20.32,Labour,21.17,-0.84,0.416,Toss-up,11.37,21.17,6.28,16.26,0.0,21.14,3.47
+Worthing West,Conservative,27.57,Conservative,28.45,-0.88,0.413,Toss-up,28.45,20.64,8.87,13.48,0.0,0.0,0.99
+Aberdeenshire North and Moray East,Conservative,26.37,Conservative,27.25,-0.89,0.412,Toss-up,27.25,6.85,10.5,4.24,24.79,0.0,0.0
+Glastonbury and Somerton,Liberal Democrat,29.12,Liberal Democrat,30.01,-0.89,0.412,Toss-up,23.8,9.62,30.01,7.45,0.0,0.0,0.0
+Mid Leicestershire,Conservative,30.92,Conservative,31.82,-0.9,0.411,Toss-up,31.82,17.61,7.11,12.53,0.0,0.0,0.0
+Paisley and Renfrewshire North,Scottish National Party (SNP),28.54,Scottish National Party (SNP),29.49,-0.95,0.406,Toss-up,6.9,18.69,5.98,6.37,29.49,0.0,4.03
+Glenrothes and Mid Fife,Scottish National Party (SNP),28.1,Scottish National Party (SNP),29.08,-0.98,0.403,Toss-up,5.61,17.55,7.87,11.8,29.08,0.0,0.0
+Watford,Labour,23.38,Labour,24.39,-1.02,0.4,Lean Against,21.7,24.39,16.53,9.24,0.0,0.0,4.76
+Cumbernauld and Kirkintilloch,Scottish National Party (SNP),32.51,Scottish National Party (SNP),33.54,-1.03,0.398,Lean Against,6.27,13.01,5.79,4.7,33.54,0.0,4.18
+"Brecon, Radnor and Cwm Tawe",Liberal Democrat,23.7,Liberal Democrat,24.81,-1.11,0.39,Lean Against,22.09,7.48,24.81,11.67,0.0,6.23,4.02
+New Forest West,Conservative,28.66,Conservative,29.78,-1.12,0.39,Lean Against,29.78,13.49,15.8,11.11,0.0,0.0,1.17
+Hertford and Stortford,Conservative,25.83,Conservative,27.1,-1.26,0.376,Lean Against,27.1,20.52,9.61,15.11,0.0,0.0,1.83
+Honiton and Sidmouth,Liberal Democrat,29.83,Liberal Democrat,31.15,-1.32,0.371,Lean Against,24.64,7.09,31.15,5.37,0.0,0.0,1.92
+Coatbridge and Bellshill,Scottish National Party (SNP),30.28,Scottish National Party (SNP),31.66,-1.38,0.365,Lean Against,6.04,17.6,4.84,5.66,31.66,0.0,3.92
+Feltham and Heston,Labour,23.04,Labour,24.42,-1.38,0.365,Lean Against,19.78,24.42,10.28,13.87,0.0,0.0,8.61
+Milton Keynes Central,Labour,24.74,Labour,26.17,-1.44,0.36,Lean Against,24.05,26.17,12.1,11.99,0.0,0.0,0.95
+Thornbury and Yate,Liberal Democrat,27.35,Liberal Democrat,28.98,-1.63,0.342,Lean Against,27.17,10.52,28.98,5.98,0.0,0.0,0.0
+Gordon and Buchan,Conservative,24.9,Conservative,26.55,-1.65,0.34,Lean Against,26.55,5.16,18.34,3.04,22.0,0.0,0.0
+Coventry South,Labour,27.89,Labour,29.57,-1.67,0.338,Lean Against,20.44,29.57,10.14,9.02,0.0,0.0,2.95
+Gower,Labour,23.95,Labour,25.64,-1.69,0.336,Lean Against,13.71,25.64,7.95,14.46,0.0,7.92,6.36
+Canterbury,Labour,24.57,Labour,26.27,-1.7,0.335,Lean Against,19.92,26.27,11.83,16.52,0.0,0.0,0.89
+Gosport,Conservative,32.04,Conservative,33.75,-1.71,0.335,Lean Against,33.75,14.17,11.22,7.25,0.0,0.0,1.57
+Tatton,Conservative,29.41,Conservative,31.14,-1.72,0.333,Lean Against,31.14,18.44,11.94,9.07,0.0,0.0,0.0
+Rushcliffe,Conservative,24.59,Conservative,26.38,-1.8,0.327,Lean Against,26.38,24.25,8.81,14.21,0.0,0.0,1.76
+Nottingham South,Labour,28.84,Labour,30.65,-1.81,0.325,Lean Against,12.27,30.65,12.93,10.58,0.0,0.0,4.74
+Hazel Grove,Liberal Democrat,26.77,Liberal Democrat,28.69,-1.93,0.315,Lean Against,17.59,19.34,28.69,6.83,0.0,0.0,0.78
+West Worcestershire,Conservative,27.0,Conservative,28.96,-1.96,0.312,Lean Against,28.96,10.93,20.61,11.49,0.0,0.0,1.01
+Droitwich and Evesham,Conservative,31.57,Conservative,33.54,-1.97,0.311,Lean Against,33.54,12.45,10.11,11.06,0.0,0.0,1.27
+New Forest East,Conservative,29.63,Conservative,31.78,-2.15,0.295,Lean Against,31.78,12.05,15.12,9.67,0.0,0.0,1.75
+Barking,Labour,24.46,Labour,26.62,-2.17,0.294,Lean Against,11.5,26.62,8.2,20.78,0.0,0.0,8.44
+North Devon,Liberal Democrat,28.5,Liberal Democrat,30.72,-2.21,0.29,Lean Against,24.02,8.84,30.72,6.45,0.0,0.0,1.47
+Weald of Kent,Conservative,31.52,Conservative,33.91,-2.39,0.275,Lean Against,33.91,12.44,9.71,12.42,0.0,0.0,0.0
+Salisbury,Conservative,26.49,Conservative,28.95,-2.46,0.269,Lean Against,28.95,15.62,18.36,9.11,0.0,0.0,1.47
+Exeter,Labour,24.13,Labour,26.77,-2.63,0.255,Lean Against,12.63,26.77,12.24,22.34,0.0,0.0,1.89
+Slough,Other,22.27,Other,24.96,-2.69,0.251,Lean Against,14.47,17.12,8.24,12.94,0.0,0.0,24.96
+Old Bexley and Sidcup,Conservative,29.99,Conservative,32.69,-2.7,0.25,Lean Against,32.69,17.37,7.87,9.97,0.0,0.0,2.1
+Airdrie and Shotts,Scottish National Party (SNP),27.27,Scottish National Party (SNP),30.05,-2.78,0.243,Lean Against,7.38,20.62,5.58,6.12,30.05,0.0,2.99
+Sevenoaks,Conservative,28.34,Conservative,31.17,-2.83,0.24,Lean Against,31.17,11.54,19.09,8.6,0.0,0.0,1.25
+Eltham and Chislehurst,Labour,24.52,Labour,27.41,-2.89,0.235,Lean Against,23.56,27.41,9.85,12.21,0.0,0.0,2.46
+Witney,Liberal Democrat,24.53,Liberal Democrat,27.46,-2.94,0.232,Lean Against,26.85,11.28,27.46,8.99,0.0,0.0,0.89
+Hamble Valley,Conservative,26.78,Conservative,29.8,-3.02,0.225,Lean Against,29.8,12.4,23.03,7.32,0.0,0.0,0.67
+Stratford-on-Avon,Liberal Democrat,26.33,Liberal Democrat,29.43,-3.1,0.22,Lean Against,26.37,10.56,29.43,6.3,0.0,0.0,1.01
+Blackburn,Other,28.32,Other,31.5,-3.19,0.213,Lean Against,9.39,12.8,5.58,12.4,0.0,0.0,31.5
+Caerfyrddin,Plaid Cymru,26.75,Plaid Cymru,29.93,-3.18,0.213,Lean Against,12.24,8.12,7.4,12.43,0.0,29.93,3.12
+Portsmouth South,Labour,27.39,Labour,30.6,-3.2,0.212,Lean Against,12.93,30.6,17.92,9.4,0.0,0.0,1.75
+Rutherglen,Scottish National Party (SNP),24.96,Scottish National Party (SNP),28.17,-3.2,0.212,Lean Against,6.57,20.58,7.2,8.31,28.17,0.0,4.21
+Wythenshawe and Sale East,Labour,26.93,Labour,30.17,-3.25,0.209,Lean Against,14.29,30.17,6.95,18.95,0.0,0.0,2.71
+Chelmsford,Liberal Democrat,24.69,Liberal Democrat,27.95,-3.25,0.208,Lean Against,25.88,13.42,27.95,6.45,0.0,0.0,1.62
+Kilmarnock and Loudoun,Scottish National Party (SNP),26.88,Scottish National Party (SNP),30.25,-3.36,0.2,Lean Against,8.94,18.45,5.45,6.21,30.25,0.0,3.83
+Harrogate and Knaresborough,Liberal Democrat,26.35,Liberal Democrat,29.79,-3.44,0.195,Lean Against,24.5,10.66,29.79,7.13,0.0,0.0,1.56
+North Ayrshire and Arran,Scottish National Party (SNP),25.09,Scottish National Party (SNP),28.62,-3.52,0.189,Lean Against,13.24,17.46,5.91,5.78,28.62,0.0,3.89
+Windsor,Conservative,25.61,Conservative,29.16,-3.55,0.187,Lean Against,29.16,14.15,19.25,8.82,0.0,0.0,3.0
+North East Hampshire,Conservative,25.45,Conservative,29.05,-3.6,0.184,Lean Against,29.05,9.02,28.75,6.6,0.0,0.0,1.13
+Angus and Perthshire Glens,Scottish National Party (SNP),26.11,Scottish National Party (SNP),29.83,-3.72,0.176,Lean Against,24.88,5.32,9.7,2.55,29.83,0.0,1.6
+Newcastle upon Tyne East and Wallsend,Labour,27.61,Labour,31.37,-3.76,0.174,Lean Against,9.61,31.37,10.01,18.77,0.0,0.0,2.64
+Eastleigh,Liberal Democrat,24.53,Liberal Democrat,28.47,-3.94,0.162,Lean Against,25.18,12.51,28.47,8.41,0.0,0.0,0.89
+Sheffield Brightside and Hillsborough,Labour,21.75,Labour,25.85,-4.09,0.153,Lean Against,14.27,25.85,6.99,21.63,0.0,0.0,9.51
+St Neots and Mid Cambridgeshire,Liberal Democrat,23.88,Liberal Democrat,28.11,-4.23,0.145,Safe Against,22.77,12.1,28.11,9.09,0.0,0.0,4.05
+Tewkesbury,Liberal Democrat,25.34,Liberal Democrat,29.7,-4.36,0.138,Safe Against,24.41,10.69,29.7,8.95,0.0,0.0,0.91
+Stockport,Labour,25.22,Labour,29.6,-4.38,0.137,Safe Against,12.26,29.6,9.47,20.19,0.0,0.0,3.26
+North Cornwall,Liberal Democrat,30.56,Liberal Democrat,35.01,-4.45,0.133,Safe Against,22.17,8.32,35.01,3.0,0.0,0.0,0.93
+Farnham and Bordon,Liberal Democrat,24.66,Liberal Democrat,29.18,-4.51,0.13,Safe Against,27.75,10.21,29.18,7.49,0.0,0.0,0.72
+South Devon,Liberal Democrat,26.96,Liberal Democrat,31.49,-4.53,0.129,Safe Against,26.11,9.83,31.49,4.84,0.0,0.0,0.77
+Chippenham,Liberal Democrat,26.98,Liberal Democrat,31.52,-4.54,0.128,Safe Against,23.5,10.0,31.52,6.75,0.0,0.0,1.25
+North Cotswolds,Conservative,25.2,Conservative,29.76,-4.56,0.127,Safe Against,29.76,12.49,19.51,11.78,0.0,0.0,1.27
+West Dunbartonshire,Scottish National Party (SNP),29.99,Scottish National Party (SNP),34.59,-4.61,0.125,Safe Against,6.95,14.83,5.27,4.41,34.59,0.0,3.96
+Dewsbury and Batley,Other,26.82,Other,31.47,-4.65,0.123,Safe Against,10.77,11.48,6.18,13.28,0.0,0.0,31.47
+"Argyll, Bute and South Lochaber",Scottish National Party (SNP),22.25,Scottish National Party (SNP),26.92,-4.67,0.122,Safe Against,18.36,6.38,21.69,2.54,26.92,0.0,1.85
+Wallasey,Labour,28.5,Labour,33.21,-4.71,0.12,Safe Against,12.89,33.21,6.64,16.64,0.0,0.0,2.13
+North Shropshire,Liberal Democrat,28.0,Liberal Democrat,32.88,-4.88,0.111,Safe Against,20.03,11.46,32.88,6.68,0.0,0.0,0.94
+Kenilworth and Southam,Conservative,25.88,Conservative,30.8,-4.92,0.109,Safe Against,30.8,15.96,16.02,10.02,0.0,0.0,1.33
+East Hampshire,Conservative,25.11,Conservative,30.09,-4.98,0.106,Safe Against,30.09,10.37,24.63,8.75,0.0,0.0,1.04
+Yeovil,Liberal Democrat,27.58,Liberal Democrat,32.57,-4.99,0.106,Safe Against,21.23,9.95,32.57,7.21,0.0,0.0,1.46
+Leicester East,Conservative,20.67,Conservative,25.69,-5.01,0.105,Safe Against,25.69,15.72,11.86,13.15,0.0,0.0,12.92
+South Cotswolds,Liberal Democrat,25.17,Liberal Democrat,30.22,-5.05,0.103,Safe Against,27.81,9.39,30.22,6.21,0.0,0.0,1.21
+Meriden and Solihull East,Conservative,28.87,Conservative,33.98,-5.12,0.1,Safe Against,33.98,17.87,8.27,11.01,0.0,0.0,0.0
+Horsham,Conservative,23.15,Conservative,28.33,-5.17,0.098,Safe Against,28.33,11.82,28.22,7.58,0.0,0.0,0.89
+Stretford and Urmston,Labour,24.35,Labour,29.54,-5.19,0.097,Safe Against,13.05,29.54,7.11,19.59,0.0,0.0,6.36
+Perth and Kinross-shire,Scottish National Party (SNP),22.15,Scottish National Party (SNP),27.36,-5.22,0.096,Safe Against,23.94,9.33,9.73,4.53,27.36,0.0,2.96
+Beaconsfield,Conservative,26.02,Conservative,31.29,-5.26,0.094,Safe Against,31.29,9.59,21.29,9.01,0.0,0.0,2.8
+Arbroath and Broughty Ferry,Scottish National Party (SNP),28.67,Scottish National Party (SNP),34.08,-5.41,0.088,Safe Against,13.33,9.58,7.25,3.04,34.08,0.0,4.05
+Salford,Labour,27.22,Labour,32.67,-5.45,0.087,Safe Against,10.09,32.67,9.12,18.31,0.0,0.0,2.58
+Mid Buckinghamshire,Conservative,25.31,Conservative,30.77,-5.45,0.086,Safe Against,30.77,12.21,21.01,9.81,0.0,0.0,0.89
+Paisley and Renfrewshire South,Scottish National Party (SNP),24.17,Scottish National Party (SNP),29.65,-5.48,0.085,Safe Against,6.86,20.98,6.55,6.7,29.65,0.0,5.09
+Bromley and Biggin Hill,Conservative,24.8,Conservative,30.3,-5.5,0.084,Safe Against,30.3,20.98,12.83,9.59,0.0,0.0,1.5
+West Aberdeenshire and Kincardine,Conservative,23.33,Conservative,28.9,-5.57,0.082,Safe Against,28.9,5.09,15.22,2.87,21.06,0.0,3.52
+Sutton Coldfield,Conservative,27.66,Conservative,33.45,-5.78,0.074,Safe Against,33.45,20.25,6.94,9.83,0.0,0.0,1.87
+Rutland and Stamford,Conservative,29.46,Conservative,35.27,-5.81,0.073,Safe Against,35.27,12.77,13.01,8.11,0.0,0.0,1.38
+Darlington,Conservative,27.89,Conservative,33.9,-6.01,0.067,Safe Against,33.9,20.02,6.3,11.88,0.0,0.0,0.0
+Cardiff East,Labour,17.0,Labour,23.02,-6.03,0.066,Safe Against,9.78,23.02,14.22,20.53,0.0,14.12,1.33
+Wetherby and Easingwold,Conservative,28.34,Conservative,34.36,-6.01,0.066,Safe Against,34.36,14.27,6.45,14.48,0.0,0.0,2.1
+"Harborough, Oadby and Wigston",Conservative,25.22,Conservative,31.31,-6.09,0.064,Safe Against,31.31,19.28,11.06,11.94,0.0,0.0,1.2
+Lothian East,Labour,19.6,Labour,25.87,-6.27,0.059,Safe Against,9.23,25.87,10.43,11.68,17.02,0.0,6.16
+Birmingham Selly Oak,Labour,24.49,Labour,30.79,-6.3,0.058,Safe Against,14.36,30.79,8.9,16.2,0.0,0.0,5.24
+Runnymede and Weybridge,Conservative,24.95,Conservative,31.25,-6.3,0.058,Safe Against,31.25,14.31,19.9,8.13,0.0,0.0,1.45
+South West Hertfordshire,Conservative,23.7,Conservative,30.07,-6.37,0.056,Safe Against,30.07,14.55,19.44,8.76,0.0,0.0,3.47
+Ilford South,Labour,18.25,Labour,24.64,-6.4,0.055,Safe Against,12.98,24.64,9.04,19.08,0.0,0.0,16.02
+Bicester and Woodstock,Liberal Democrat,22.37,Liberal Democrat,28.81,-6.44,0.054,Safe Against,24.62,14.21,28.81,9.3,0.0,0.0,0.69
+Inverclyde and Renfrewshire West,Scottish National Party (SNP),26.02,Scottish National Party (SNP),32.52,-6.49,0.052,Safe Against,9.45,16.12,6.34,4.51,32.52,0.0,5.04
+Birmingham Edgbaston,Labour,23.6,Labour,30.16,-6.56,0.051,Safe Against,20.34,30.16,7.52,12.28,0.0,0.0,6.09
+Na h-Eileanan an Iar,Scottish National Party (SNP),18.14,Scottish National Party (SNP),24.69,-6.55,0.051,Safe Against,12.66,18.31,10.71,4.08,24.69,0.0,11.41
+Orpington,Conservative,26.75,Conservative,33.33,-6.59,0.05,Safe Against,33.33,17.32,12.41,8.6,0.0,0.0,1.59
+Warwick and Leamington,Labour,22.33,Labour,29.05,-6.72,0.046,Safe Against,21.1,29.05,11.2,15.31,0.0,0.0,1.02
+Solihull West and Shirley,Conservative,23.98,Conservative,30.81,-6.82,0.044,Safe Against,30.81,17.25,14.0,12.16,0.0,0.0,1.8
+Stockton West,Conservative,30.74,Conservative,37.58,-6.83,0.044,Safe Against,37.58,17.15,6.14,6.87,0.0,0.0,1.52
+Wells and Mendip Hills,Liberal Democrat,26.47,Liberal Democrat,33.36,-6.89,0.043,Safe Against,21.03,9.64,33.36,6.74,0.0,0.0,2.76
+Dumfries and Galloway,Conservative,17.05,Conservative,24.0,-6.94,0.041,Safe Against,24.0,19.38,8.24,10.06,17.77,0.0,3.5
+Glasgow South,Scottish National Party (SNP),20.5,Scottish National Party (SNP),27.49,-7.0,0.04,Safe Against,4.78,21.46,7.2,7.5,27.49,0.0,11.08
+Monmouthshire,Conservative,22.92,Conservative,29.94,-7.01,0.04,Safe Against,29.94,15.43,7.78,15.33,0.0,3.24,5.36
+York Central,Labour,25.26,Labour,32.26,-7.0,0.04,Safe Against,10.49,32.26,10.5,19.82,0.0,0.0,1.68
+Hexham,Conservative,24.89,Conservative,31.95,-7.06,0.039,Safe Against,31.95,21.52,8.75,9.61,0.0,0.0,3.29
+Surrey Heath,Liberal Democrat,24.64,Liberal Democrat,31.68,-7.04,0.039,Safe Against,26.85,10.15,31.68,6.16,0.0,0.0,0.52
+Uxbridge and South Ruislip,Conservative,23.38,Conservative,30.7,-7.31,0.034,Safe Against,30.7,21.61,7.32,14.75,0.0,0.0,2.25
+Taunton and Wellington,Liberal Democrat,27.43,Liberal Democrat,34.9,-7.47,0.031,Safe Against,20.81,10.11,34.9,5.79,0.0,0.0,0.96
+Dorking and Horley,Liberal Democrat,23.12,Liberal Democrat,30.7,-7.59,0.029,Safe Against,26.44,11.12,30.7,8.63,0.0,0.0,0.0
+Manchester Central,Labour,21.69,Labour,29.26,-7.57,0.029,Safe Against,7.19,29.26,9.27,28.6,0.0,0.0,3.98
+Reigate,Conservative,23.09,Conservative,30.69,-7.6,0.029,Safe Against,30.69,17.65,13.85,14.71,0.0,0.0,0.0
+"Dumfriesshire, Clydesdale and Tweeddale",Conservative,20.83,Conservative,28.57,-7.74,0.026,Safe Against,28.57,12.35,11.86,6.76,16.77,0.0,2.86
+Brighton Kemptown and Peacehaven,The Green Party,17.85,The Green Party,25.8,-7.95,0.023,Safe Against,16.71,24.71,11.26,25.8,0.0,0.0,3.67
+Didcot and Wantage,Liberal Democrat,21.87,Liberal Democrat,29.83,-7.96,0.023,Safe Against,24.4,13.88,29.83,9.28,0.0,0.0,0.75
+East Renfrewshire,Labour,18.45,Labour,26.55,-8.09,0.022,Safe Against,12.25,26.55,4.87,7.16,22.58,0.0,8.13
+Richmond and Northallerton,Conservative,31.68,Conservative,39.75,-8.07,0.022,Safe Against,39.75,10.17,9.1,6.96,0.0,0.0,2.33
+Newbury,Conservative,21.22,Conservative,29.33,-8.11,0.021,Safe Against,29.33,10.37,29.26,9.12,0.0,0.0,0.7
+Altrincham and Sale West,Conservative,20.61,Conservative,28.84,-8.23,0.02,Safe Against,28.84,24.84,8.97,15.09,0.0,0.0,1.66
+Croydon East,Labour,21.5,Labour,29.74,-8.24,0.02,Safe Against,24.2,29.74,10.4,14.16,0.0,0.0,0.0
+Romsey and Southampton North,Conservative,23.56,Conservative,32.18,-8.62,0.016,Safe Against,32.18,10.76,26.63,6.36,0.0,0.0,0.51
+Glasgow East,Scottish National Party (SNP),18.96,Scottish National Party (SNP),27.74,-8.78,0.014,Safe Against,5.96,26.23,5.9,8.84,27.74,0.0,6.36
+Glasgow South West,Scottish National Party (SNP),20.11,Scottish National Party (SNP),28.87,-8.76,0.014,Safe Against,4.94,24.74,6.13,8.7,28.87,0.0,6.52
+Glasgow West,Scottish National Party (SNP),18.93,Scottish National Party (SNP),27.68,-8.75,0.014,Safe Against,5.52,25.74,7.52,6.63,27.68,0.0,7.98
+Ilford North,Other,18.03,Other,26.83,-8.79,0.014,Safe Against,18.05,17.91,7.66,11.52,0.0,0.0,26.83
+Mid Sussex,Liberal Democrat,21.77,Liberal Democrat,30.56,-8.8,0.014,Safe Against,23.14,15.24,30.56,8.5,0.0,0.0,0.8
+Chichester,Liberal Democrat,25.35,Liberal Democrat,34.2,-8.85,0.013,Safe Against,21.78,10.38,34.2,7.68,0.0,0.0,0.62
+Chingford and Woodford Green,Conservative,21.63,Conservative,30.48,-8.85,0.013,Safe Against,30.48,18.19,7.82,7.35,0.0,0.0,14.52
+Leeds South,The Green Party,20.7,The Green Party,29.55,-8.85,0.013,Safe Against,11.68,24.92,6.67,29.55,0.0,0.0,6.47
+Tunbridge Wells,Liberal Democrat,23.54,Liberal Democrat,32.56,-9.02,0.012,Safe Against,22.52,11.58,32.56,8.85,0.0,0.0,0.96
+Cities of London and Westminster,Conservative,17.94,Conservative,27.21,-9.28,0.01,Safe Against,27.21,25.86,12.59,13.38,0.0,0.0,3.02
+Aberdeen North,Scottish National Party (SNP),18.51,Scottish National Party (SNP),28.05,-9.54,0.009,Safe Against,11.21,18.68,8.77,8.66,28.05,0.0,6.12
+Arundel and South Downs,Conservative,23.94,Conservative,33.56,-9.62,0.008,Safe Against,33.56,12.1,15.19,14.48,0.0,0.0,0.73
+Hayes and Harlington,Labour,22.53,Labour,32.19,-9.66,0.008,Safe Against,20.45,32.19,8.88,11.54,0.0,0.0,4.43
+Middlesbrough South and East Cleveland,Conservative,27.97,Conservative,37.54,-9.57,0.008,Safe Against,37.54,15.93,10.05,5.28,0.0,0.0,3.24
+Gorton and Denton,The Green Party,21.97,The Green Party,31.72,-9.75,0.007,Safe Against,8.03,26.41,6.07,31.72,0.0,0.0,5.8
+Birmingham Perry Barr,Other,18.65,Other,28.8,-10.15,0.006,Safe Against,12.34,21.9,6.72,11.59,0.0,0.0,28.8
+Edinburgh North and Leith,Labour,14.6,Labour,24.64,-10.05,0.006,Safe Against,6.19,24.64,13.51,8.09,22.17,0.0,10.8
+Leicester South,Other,17.49,Other,27.66,-10.17,0.006,Safe Against,9.89,20.1,8.64,16.22,0.0,0.0,27.66
+Newcastle upon Tyne North,Labour,22.79,Labour,32.95,-10.16,0.006,Safe Against,12.25,32.95,15.01,15.41,0.0,0.0,1.6
+Bradford West,Other,19.55,Other,29.8,-10.25,0.005,Safe Against,9.39,16.67,5.28,19.31,0.0,0.0,29.8
+Chesham and Amersham,Liberal Democrat,20.75,Liberal Democrat,31.07,-10.32,0.005,Safe Against,28.88,9.81,31.07,8.5,0.0,0.0,1.0
+Mid Dorset and North Poole,Conservative,21.04,Conservative,31.38,-10.35,0.005,Safe Against,31.38,9.82,30.03,6.29,0.0,0.0,1.44
+Stirling and Strathallan,Scottish National Party (SNP),17.68,Scottish National Party (SNP),27.91,-10.23,0.005,Safe Against,17.23,18.96,8.89,4.02,27.91,0.0,5.31
+West Ham and Beckton,Labour,18.51,Labour,28.76,-10.25,0.005,Safe Against,11.77,28.76,10.06,18.02,0.0,0.0,12.87
+Epping Forest,Conservative,23.64,Conservative,34.21,-10.57,0.004,Safe Against,34.21,14.55,13.08,8.97,0.0,0.0,5.56
+Sutton and Cheam,Liberal Democrat,19.41,Liberal Democrat,30.18,-10.77,0.004,Safe Against,25.82,16.21,30.18,7.08,0.0,0.0,1.3
+Epsom and Ewell,Liberal Democrat,21.67,Liberal Democrat,32.7,-11.03,0.003,Safe Against,25.03,12.7,32.7,6.47,0.0,0.0,1.45
+Harrow West,Labour,17.01,Labour,27.98,-10.97,0.003,Safe Against,25.66,27.98,9.8,12.8,0.0,0.0,6.74
+Hertsmere,Conservative,27.12,Conservative,38.23,-11.11,0.003,Safe Against,38.23,16.52,7.69,8.71,0.0,0.0,1.73
+Kensington and Bayswater,Conservative,17.55,Conservative,28.72,-11.17,0.003,Safe Against,28.72,27.06,9.74,12.35,0.0,0.0,4.58
+Sheffield Heeley,The Green Party,17.47,The Green Party,28.37,-10.9,0.003,Safe Against,12.95,28.1,9.3,28.37,0.0,0.0,3.81
+Birmingham Ladywood,Labour,16.37,Labour,27.98,-11.6,0.002,Safe Against,8.48,27.98,7.05,13.9,0.0,0.0,26.22
+Brentford and Isleworth,Labour,17.57,Labour,29.16,-11.59,0.002,Safe Against,20.37,29.16,12.58,15.36,0.0,0.0,4.95
+"Inverness, Skye and West Ross-shire",Liberal Democrat,21.27,Liberal Democrat,32.69,-11.41,0.002,Safe Against,6.18,5.0,32.69,3.43,26.35,0.0,5.08
+Poplar and Limehouse,Labour,16.4,Labour,27.82,-11.42,0.002,Safe Against,9.57,27.82,16.03,20.9,0.0,0.0,9.28
+St Ives,Liberal Democrat,27.16,Liberal Democrat,38.66,-11.5,0.002,Safe Against,19.38,8.94,38.66,4.5,0.0,0.0,1.36
+Aberdeen South,Scottish National Party (SNP),13.64,Scottish National Party (SNP),26.14,-12.51,0.001,Safe Against,20.71,18.32,8.73,6.05,26.14,0.0,6.4
+Birmingham Hall Green and Moseley,Other,14.32,Other,27.08,-12.76,0.001,Safe Against,10.37,21.36,9.48,17.4,0.0,0.0,27.08
+Bootle,Labour,26.64,Labour,38.84,-12.2,0.001,Safe Against,6.69,38.84,7.89,18.12,0.0,0.0,1.82
+Brent West,Labour,16.3,Labour,28.33,-12.03,0.001,Safe Against,27.76,28.33,10.63,12.32,0.0,0.0,4.66
+Cardiff North,Labour,19.13,Labour,31.96,-12.83,0.001,Safe Against,15.95,31.96,8.2,16.58,0.0,8.19,0.0
+Cheadle,Liberal Democrat,21.45,Liberal Democrat,33.65,-12.2,0.001,Safe Against,19.75,16.29,33.65,7.36,0.0,0.0,1.5
+Eastbourne,Liberal Democrat,23.79,Liberal Democrat,36.26,-12.46,0.001,Safe Against,22.35,11.38,36.26,5.69,0.0,0.0,0.53
+Henley and Thame,Liberal Democrat,20.73,Liberal Democrat,32.97,-12.24,0.001,Safe Against,27.36,9.96,32.97,7.9,0.0,0.0,1.08
+Knowsley,Labour,27.04,Labour,39.62,-12.58,0.001,Safe Against,7.66,39.62,8.26,15.37,0.0,0.0,2.04
+Leeds North East,Labour,18.88,Labour,31.59,-12.71,0.001,Safe Against,14.31,31.59,6.47,23.62,0.0,0.0,5.13
+Liverpool Walton,Labour,28.29,Labour,41.18,-12.89,0.001,Safe Against,6.19,41.18,8.92,13.37,0.0,0.0,2.04
+Oxford East,Labour,16.49,Labour,28.9,-12.41,0.001,Safe Against,10.15,28.9,15.0,20.56,0.0,0.0,8.91
+Reading Central,Labour,17.51,Labour,30.24,-12.73,0.001,Safe Against,17.6,30.24,9.82,23.77,0.0,0.0,1.06
+Tonbridge,Conservative,22.36,Conservative,34.88,-12.53,0.001,Safe Against,34.88,11.21,9.42,20.34,0.0,0.0,1.79
+Wokingham,Liberal Democrat,21.06,Liberal Democrat,33.73,-12.66,0.001,Safe Against,26.4,11.01,33.73,7.8,0.0,0.0,0.0
+Bath,Liberal Democrat,18.49,Liberal Democrat,34.57,-16.08,0.0,Safe Against,12.94,17.03,34.57,14.12,0.0,0.0,2.85
+Battersea,Labour,14.31,Labour,34.56,-20.25,0.0,Safe Against,21.73,34.56,10.67,15.99,0.0,0.0,2.74
+Beckenham and Penge,Labour,19.78,Labour,33.14,-13.35,0.0,Safe Against,22.58,33.14,11.77,12.73,0.0,0.0,0.0
+Bermondsey and Old Southwark,Labour,14.25,Labour,36.74,-22.49,0.0,Safe Against,9.09,36.74,22.6,14.99,0.0,0.0,2.32
+"Berwickshire, Roxburgh and Selkirk",Conservative,13.45,Conservative,33.86,-20.41,0.0,Safe Against,33.86,12.07,14.14,5.79,17.46,0.0,3.23
+Bethnal Green and Stepney,Other,12.49,Other,26.76,-14.27,0.0,Safe Against,4.85,20.25,16.23,19.43,0.0,0.0,26.76
+Birkenhead,The Green Party,18.72,The Green Party,35.63,-16.92,0.0,Safe Against,9.71,26.97,6.4,35.63,0.0,0.0,2.56
+Blaenau Gwent and Rhymney,Plaid Cymru,10.74,Plaid Cymru,29.04,-18.3,0.0,Safe Against,14.5,15.17,6.86,16.68,0.0,29.04,7.02
+Brent East,Labour,15.96,Labour,35.14,-19.17,0.0,Safe Against,16.13,35.14,10.65,15.66,0.0,0.0,6.46
+Brighton Pavilion,The Green Party,8.77,The Green Party,64.52,-55.75,0.0,Safe Against,5.85,15.79,4.19,64.52,0.0,0.0,0.89
+Bristol Central,The Green Party,6.43,The Green Party,63.36,-56.93,0.0,Safe Against,4.77,20.98,3.67,63.36,0.0,0.0,0.8
+Bristol East,The Green Party,12.01,The Green Party,42.8,-30.79,0.0,Safe Against,11.81,24.13,6.39,42.8,0.0,0.0,2.86
+Bristol North East,The Green Party,20.34,The Green Party,33.65,-13.31,0.0,Safe Against,13.35,23.16,6.71,33.65,0.0,0.0,2.79
+Bristol North West,The Green Party,17.52,The Green Party,32.23,-14.71,0.0,Safe Against,13.23,27.39,8.42,32.23,0.0,0.0,1.21
+Bristol South,The Green Party,18.87,The Green Party,39.14,-20.28,0.0,Safe Against,11.98,21.97,6.67,39.14,0.0,0.0,1.36
+"Caithness, Sutherland and Easter Ross",Liberal Democrat,18.12,Liberal Democrat,49.02,-30.91,0.0,Safe Against,6.26,2.18,49.02,1.8,19.15,0.0,3.46
+Cambridge,Labour,12.24,Labour,32.72,-20.48,0.0,Safe Against,10.17,32.72,18.44,23.25,0.0,0.0,3.18
+Cardiff South and Penarth,The Green Party,12.6,The Green Party,31.98,-19.38,0.0,Safe Against,10.38,27.39,6.78,31.98,0.0,10.88,0.0
+Carshalton and Wallington,Liberal Democrat,19.87,Liberal Democrat,36.68,-16.82,0.0,Safe Against,22.47,14.05,36.68,5.35,0.0,0.0,1.59
+Ceredigion Preseli,Plaid Cymru,18.88,Plaid Cymru,35.62,-16.74,0.0,Safe Against,6.57,6.88,15.26,13.68,0.0,35.62,3.11
+Chelsea and Fulham,Conservative,17.42,Conservative,35.94,-18.52,0.0,Safe Against,35.94,25.05,9.95,9.95,0.0,0.0,1.7
+Cheltenham,Conservative,16.25,Conservative,32.3,-16.05,0.0,Safe Against,32.3,10.66,31.8,7.78,0.0,0.0,1.21
+Chipping Barnet,Conservative,18.53,Conservative,32.53,-14.0,0.0,Safe Against,32.53,27.2,7.99,12.08,0.0,0.0,1.66
+Clapham and Brixton Hill,Labour,11.78,Labour,42.48,-30.7,0.0,Safe Against,11.62,42.48,13.92,18.4,0.0,0.0,1.78
+Croydon South,Conservative,18.75,Conservative,35.85,-17.11,0.0,Safe Against,35.85,24.01,10.42,8.79,0.0,0.0,2.18
+Croydon West,Labour,15.53,Labour,38.67,-23.14,0.0,Safe Against,15.57,38.67,12.54,14.32,0.0,0.0,3.37
+Dulwich and West Norwood,Labour,8.94,Labour,39.06,-30.12,0.0,Safe Against,8.98,39.06,7.66,34.16,0.0,0.0,1.2
+Dundee Central,Scottish National Party (SNP),11.32,Scottish National Party (SNP),41.22,-29.9,0.0,Safe Against,12.17,17.91,9.21,3.19,41.22,0.0,4.98
+Dwyfor Meirionnydd,Plaid Cymru,21.94,Plaid Cymru,38.0,-16.05,0.0,Safe Against,6.25,8.83,7.85,11.92,0.0,38.0,5.21
+Ealing Central and Acton,Labour,14.03,Labour,34.44,-20.41,0.0,Safe Against,16.41,34.44,13.87,17.28,0.0,0.0,3.98
+Ealing North,Labour,17.72,Labour,31.88,-14.16,0.0,Safe Against,17.69,31.88,10.42,16.31,0.0,0.0,5.99
+Ealing Southall,Labour,14.34,Labour,33.38,-19.04,0.0,Safe Against,14.9,33.38,10.59,17.61,0.0,0.0,9.18
+Earley and Woodley,Conservative,17.85,Conservative,31.72,-13.87,0.0,Safe Against,31.72,22.71,14.35,12.15,0.0,0.0,1.22
+East Grinstead and Uckfield,Conservative,18.04,Conservative,31.2,-13.17,0.0,Safe Against,31.2,12.49,17.92,15.46,0.0,0.0,4.89
+East Ham,Labour,14.5,Labour,32.95,-18.46,0.0,Safe Against,10.89,32.95,8.87,20.81,0.0,0.0,11.99
+Edinburgh East and Musselburgh,Labour,11.81,Labour,28.84,-17.02,0.0,Safe Against,6.36,28.84,8.82,8.91,26.72,0.0,8.53
+Edinburgh South,Labour,10.67,Labour,33.3,-22.63,0.0,Safe Against,8.69,33.3,10.09,9.76,16.08,0.0,11.42
+Edinburgh South West,Labour,12.97,Labour,27.57,-14.6,0.0,Safe Against,10.02,27.57,10.61,8.51,22.34,0.0,7.98
+Edinburgh West,Liberal Democrat,14.46,Liberal Democrat,47.11,-32.65,0.0,Safe Against,4.63,6.7,47.11,6.39,13.63,0.0,7.07
+Edmonton and Winchmore Hill,Labour,17.99,Labour,34.17,-16.18,0.0,Safe Against,17.87,34.17,9.81,15.35,0.0,0.0,4.81
+Enfield North,Labour,19.9,Labour,33.08,-13.18,0.0,Safe Against,19.28,33.08,9.09,14.51,0.0,0.0,4.14
+Erith and Thamesmead,Labour,22.04,Labour,36.19,-14.15,0.0,Safe Against,13.79,36.19,9.61,15.23,0.0,0.0,3.14
+Esher and Walton,Liberal Democrat,19.06,Liberal Democrat,40.31,-21.25,0.0,Safe Against,24.36,10.19,40.31,5.44,0.0,0.0,0.64
+Finchley and Golders Green,Conservative,16.67,Conservative,30.75,-14.09,0.0,Safe Against,30.75,27.92,11.33,11.34,0.0,0.0,1.99
+Glasgow North,Scottish National Party (SNP),15.45,Scottish National Party (SNP),28.89,-13.44,0.0,Safe Against,6.32,25.4,5.99,8.08,28.89,0.0,9.86
+Glasgow North East,Labour,15.41,Labour,30.61,-15.21,0.0,Safe Against,5.78,30.61,5.9,8.42,27.37,0.0,6.5
+Godalming and Ash,Conservative,20.39,Conservative,36.04,-15.66,0.0,Safe Against,36.04,8.52,29.77,4.74,0.0,0.0,0.53
+Greenwich and Woolwich,Labour,12.02,Labour,35.98,-23.96,0.0,Safe Against,11.21,35.98,10.18,28.34,0.0,0.0,2.27
+Guildford,Liberal Democrat,21.38,Liberal Democrat,37.42,-16.04,0.0,Safe Against,23.25,10.79,37.42,6.45,0.0,0.0,0.71
+Hackney North and Stoke Newington,Labour,9.58,Labour,37.41,-27.83,0.0,Safe Against,8.6,37.41,5.84,36.14,0.0,0.0,2.43
+Hackney South and Shoreditch,The Green Party,8.95,The Green Party,38.3,-29.35,0.0,Safe Against,6.51,36.92,6.75,38.3,0.0,0.0,2.56
+Hammersmith and Chiswick,Labour,15.65,Labour,36.35,-20.7,0.0,Safe Against,17.08,36.35,11.56,16.63,0.0,0.0,2.74
+Hampstead and Highgate,Labour,13.23,Labour,34.21,-20.98,0.0,Safe Against,15.07,34.21,13.58,21.86,0.0,0.0,2.04
+Harpenden and Berkhamsted,Liberal Democrat,20.39,Liberal Democrat,33.9,-13.51,0.0,Safe Against,26.02,11.09,33.9,7.11,0.0,0.0,1.48
+Harrow East,Conservative,16.32,Conservative,47.78,-31.45,0.0,Safe Against,47.78,17.25,5.88,8.65,0.0,0.0,4.11
+Hendon,Conservative,18.56,Conservative,33.18,-14.63,0.0,Safe Against,33.18,24.89,8.31,11.56,0.0,0.0,3.51
+Holborn and St Pancras,Labour,15.9,Labour,32.96,-17.06,0.0,Safe Against,8.08,32.96,12.43,18.34,0.0,0.0,12.29
+Hornsey and Friern Barnet,Labour,9.01,Labour,38.36,-29.35,0.0,Safe Against,7.75,38.36,13.87,29.22,0.0,0.0,1.78
+Hove and Portslade,The Green Party,16.83,The Green Party,33.12,-16.29,0.0,Safe Against,10.42,27.15,9.1,33.12,0.0,0.0,3.39
+Huddersfield,The Green Party,20.3,The Green Party,40.16,-19.86,0.0,Safe Against,13.39,21.42,4.73,40.16,0.0,0.0,0.0
+Islington North,Other,11.05,Other,34.55,-23.5,0.0,Safe Against,7.41,22.09,9.63,15.27,0.0,0.0,34.55
+Islington South and Finsbury,Labour,11.7,Labour,33.93,-22.23,0.0,Safe Against,8.57,33.93,10.45,32.84,0.0,0.0,2.51
+Keighley and Ilkley,Conservative,24.86,Conservative,38.92,-14.06,0.0,Safe Against,38.92,17.6,4.78,9.77,0.0,0.0,4.07
+Kingston and Surbiton,Liberal Democrat,15.22,Liberal Democrat,43.09,-27.87,0.0,Safe Against,15.25,16.06,43.09,7.79,0.0,0.0,2.6
+Leeds Central and Headingley,The Green Party,17.71,The Green Party,32.93,-15.22,0.0,Safe Against,5.9,30.71,9.78,32.93,0.0,0.0,2.97
+Lewes,Liberal Democrat,20.9,Liberal Democrat,37.22,-16.31,0.0,Safe Against,23.42,10.72,37.22,7.15,0.0,0.0,0.59
+Lewisham East,Labour,14.14,Labour,37.52,-23.38,0.0,Safe Against,10.33,37.52,9.12,26.51,0.0,0.0,2.38
+Lewisham North,Labour,9.07,Labour,37.61,-28.54,0.0,Safe Against,6.61,37.61,8.61,36.17,0.0,0.0,1.93
+Lewisham West and East Dulwich,Labour,9.01,Labour,38.02,-29.01,0.0,Safe Against,7.81,38.02,8.73,34.88,0.0,0.0,1.54
+Leyton and Wanstead,The Green Party,12.35,The Green Party,31.82,-19.48,0.0,Safe Against,9.7,29.45,9.18,31.82,0.0,0.0,7.5
+Liverpool Garston,Labour,23.04,Labour,37.66,-14.61,0.0,Safe Against,8.53,37.66,12.23,12.21,0.0,0.0,6.34
+Liverpool Riverside,Labour,18.93,Labour,36.94,-18.01,0.0,Safe Against,5.23,36.94,7.95,28.11,0.0,0.0,2.84
+Liverpool Wavertree,Labour,15.51,Labour,37.66,-22.15,0.0,Safe Against,5.97,37.66,8.78,28.89,0.0,0.0,3.21
+Liverpool West Derby,Labour,24.31,Labour,39.73,-15.42,0.0,Safe Against,7.51,39.73,7.86,15.75,0.0,0.0,4.85
+Maidenhead,Liberal Democrat,17.24,Liberal Democrat,31.55,-14.31,0.0,Safe Against,30.14,12.08,31.55,7.08,0.0,0.0,1.92
+Manchester Rusholme,The Green Party,15.77,The Green Party,35.11,-19.34,0.0,Safe Against,5.57,31.55,4.47,35.11,0.0,0.0,7.53
+Manchester Withington,Labour,12.36,Labour,34.55,-22.19,0.0,Safe Against,5.65,34.55,10.36,34.35,0.0,0.0,2.73
+Mid Dunbartonshire,Liberal Democrat,16.56,Liberal Democrat,36.93,-20.37,0.0,Safe Against,5.27,9.66,36.93,5.04,19.33,0.0,7.22
+Mitcham and Morden,Labour,17.26,Labour,36.43,-19.17,0.0,Safe Against,13.67,36.43,11.79,18.08,0.0,0.0,2.77
+North East Fife,Liberal Democrat,12.7,Liberal Democrat,54.38,-41.68,0.0,Safe Against,6.89,2.9,54.38,2.01,18.05,0.0,3.05
+North Herefordshire,The Green Party,22.77,The Green Party,40.0,-17.23,0.0,Safe Against,23.94,6.61,5.73,40.0,0.0,0.0,0.95
+Norwich South,The Green Party,17.68,The Green Party,33.59,-15.91,0.0,Safe Against,11.5,26.65,8.66,33.59,0.0,0.0,1.93
+Nottingham East,Labour,18.21,Labour,34.15,-15.94,0.0,Safe Against,9.52,34.15,8.4,24.04,0.0,0.0,5.67
+Orkney and Shetland,Liberal Democrat,6.16,Liberal Democrat,58.87,-52.71,0.0,Safe Against,3.3,8.17,58.87,7.41,8.82,0.0,7.26
+Oxford West and Abingdon,Liberal Democrat,17.17,Liberal Democrat,40.1,-22.93,0.0,Safe Against,14.57,17.1,40.1,10.17,0.0,0.0,0.9
+Peckham,Labour,10.29,Labour,38.42,-28.13,0.0,Safe Against,7.16,38.42,8.89,32.29,0.0,0.0,2.95
+Putney,Labour,15.09,Labour,33.89,-18.8,0.0,Safe Against,21.47,33.89,12.99,14.55,0.0,0.0,2.01
+Queen's Park and Maida Vale,Labour,13.39,Labour,32.02,-18.63,0.0,Safe Against,11.24,32.02,10.3,29.1,0.0,0.0,3.96
+Richmond Park,Liberal Democrat,13.22,Liberal Democrat,42.45,-29.23,0.0,Safe Against,19.89,14.85,42.45,8.35,0.0,0.0,1.23
+"Ruislip, Northwood and Pinner",Conservative,19.5,Conservative,40.22,-20.72,0.0,Safe Against,40.22,19.02,10.33,10.93,0.0,0.0,0.0
+Sheffield Central,The Green Party,10.14,The Green Party,40.8,-30.67,0.0,Safe Against,6.65,30.27,7.59,40.8,0.0,0.0,4.55
+Sheffield Hallam,Labour,14.39,Labour,30.85,-16.46,0.0,Safe Against,11.57,30.85,26.34,14.82,0.0,0.0,2.02
+South Cambridgeshire,Liberal Democrat,20.32,Liberal Democrat,33.7,-13.39,0.0,Safe Against,22.58,13.28,33.7,9.19,0.0,0.0,0.93
+Southgate and Wood Green,Labour,14.96,Labour,34.81,-19.84,0.0,Safe Against,16.38,34.81,10.47,20.32,0.0,0.0,3.07
+St Albans,Liberal Democrat,16.8,Liberal Democrat,40.29,-23.49,0.0,Safe Against,17.04,14.61,40.29,10.45,0.0,0.0,0.81
+"Stone, Great Wyrley and Penkridge",Conservative,25.45,Conservative,39.0,-13.55,0.0,Safe Against,39.0,13.43,9.24,8.3,0.0,0.0,4.58
+Stratford and Bow,Labour,13.41,Labour,29.22,-15.81,0.0,Safe Against,8.77,29.22,9.9,26.14,0.0,0.0,12.55
+Streatham and Croydon North,Labour,10.93,Labour,34.52,-23.59,0.0,Safe Against,10.79,34.52,11.41,29.97,0.0,0.0,2.37
+Tooting,Labour,12.88,Labour,38.62,-25.75,0.0,Safe Against,17.21,38.62,10.01,18.87,0.0,0.0,2.4
+Tottenham,Labour,10.71,Labour,35.44,-24.73,0.0,Safe Against,7.24,35.44,7.28,34.01,0.0,0.0,5.32
+Twickenham,Liberal Democrat,13.39,Liberal Democrat,46.29,-32.9,0.0,Safe Against,14.84,16.07,46.29,8.43,0.0,0.0,0.99
+Vauxhall and Camberwell Green,Labour,11.02,Labour,38.28,-27.26,0.0,Safe Against,8.27,38.28,11.45,29.67,0.0,0.0,1.31
+Walthamstow,Labour,9.83,Labour,35.88,-26.06,0.0,Safe Against,6.06,35.88,7.73,35.77,0.0,0.0,4.72
+Waveney Valley,The Green Party,20.27,The Green Party,43.29,-23.03,0.0,Safe Against,24.24,7.09,3.82,43.29,0.0,0.0,1.29
+West Dorset,Liberal Democrat,18.63,Liberal Democrat,34.73,-16.09,0.0,Safe Against,29.32,9.4,34.73,6.61,0.0,0.0,1.3
+Westmorland and Lonsdale,Liberal Democrat,24.58,Liberal Democrat,44.21,-19.63,0.0,Safe Against,15.82,10.35,44.21,4.44,0.0,0.0,0.6
+Wimbledon,Liberal Democrat,13.55,Liberal Democrat,36.67,-23.11,0.0,Safe Against,20.08,20.37,36.67,8.01,0.0,0.0,1.32
+Winchester,Liberal Democrat,19.19,Liberal Democrat,37.73,-18.54,0.0,Safe Against,24.16,10.51,37.73,7.68,0.0,0.0,0.73
+Woking,Liberal Democrat,18.92,Liberal Democrat,35.61,-16.69,0.0,Safe Against,22.77,13.96,35.61,8.09,0.0,0.0,0.65
