@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reform UK — constituency win likelihood</title>
+<style>
+  :root {
+    --bg: #0f1419; --panel: #1a1f26; --border: #2a323d;
+    --text: #e6e6e6; --muted: #8b95a1; --accent: #00c4c6;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh;
+         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+         background: var(--bg); color: var(--text);
+         display: flex; flex-direction: column; }
+  header { padding: 2rem 2rem 1.25rem; border-bottom: 2px solid var(--accent);
+           background: var(--panel); }
+  header h1 { margin: 0 0 0.35rem; font-size: 1.5rem; }
+  header .sub { color: var(--muted); font-size: 0.92rem; max-width: 780px; }
+  main { flex: 1; max-width: 1100px; margin: 0 auto; padding: 2.5rem 2rem;
+         width: 100%; }
+  h2 { margin: 0 0 1rem; font-size: 1.05rem; color: var(--muted);
+       text-transform: uppercase; letter-spacing: 0.08em; font-weight: 600; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+           gap: 1.25rem; margin-bottom: 2.5rem; }
+  a.card { display: block; padding: 1.75rem; border-radius: 12px;
+           background: var(--panel); border: 1px solid var(--border);
+           color: var(--text); text-decoration: none; transition: all 0.15s; }
+  a.card:hover { border-color: var(--accent);
+                 transform: translateY(-2px);
+                 box-shadow: 0 10px 24px #00c4c622; }
+  .card .emoji { font-size: 1.8rem; margin-bottom: 0.5rem; display: block; }
+  .card h3 { margin: 0 0 0.5rem; font-size: 1.25rem; }
+  .card p { margin: 0 0 0.75rem; color: var(--muted); font-size: 0.92rem;
+            line-height: 1.5; }
+  .card ul { margin: 0; padding-left: 1.2rem; font-size: 0.88rem;
+             color: var(--muted); }
+  .card ul li { margin: 0.2rem 0; }
+  .card .go { margin-top: 1rem; color: var(--accent); font-size: 0.9rem;
+              font-weight: 600; }
+
+  .headline-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+                    gap: 0.75rem; margin-bottom: 2.5rem; }
+  .stat { background: var(--panel); border: 1px solid var(--border);
+          border-radius: 8px; padding: 0.9rem 1rem; }
+  .stat .label { color: var(--muted); font-size: 0.72rem;
+                 text-transform: uppercase; letter-spacing: 0.06em; }
+  .stat .value { font-size: 1.55rem; font-weight: 600; margin-top: 0.2rem;
+                 line-height: 1.1; }
+  .stat .suffix { color: var(--muted); font-size: 0.78rem; margin-left: 0.2rem; }
+
+  details { background: var(--panel); border: 1px solid var(--border);
+            border-radius: 8px; padding: 0.9rem 1.1rem; margin-bottom: 1rem; }
+  details summary { cursor: pointer; font-weight: 600; outline: none;
+                    color: var(--text); }
+  details summary:hover { color: var(--accent); }
+  details p, details li { color: var(--muted); font-size: 0.9rem;
+                          line-height: 1.55; }
+  details code { background: #0f141a; padding: 0.1rem 0.35rem;
+                 border-radius: 4px; font-size: 0.85em; color: #c7f0f0; }
+
+  footer { border-top: 1px solid var(--border); padding: 1.25rem 2rem;
+           color: var(--muted); font-size: 0.82rem; text-align: center; }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Reform UK — constituency win likelihood</h1>
+  <div class="sub">Interactive views of per-seat Reform UK win probabilities across 631 GB Westminster constituencies, combining More in Common's April 2026 MRP, Electoral Calculus's January 2026 MRP, and the 2024 general election baseline.</div>
+</header>
+
+<main>
+
+  <section>
+    <h2>Headline numbers</h2>
+    <div class="headline-stats">
+      <div class="stat"><div class="label">Seats covered</div>
+        <div class="value">631<span class="suffix">GB</span></div></div>
+      <div class="stat"><div class="label">MiC Reform wins</div>
+        <div class="value">324</div></div>
+      <div class="stat"><div class="label">EC Reform wins</div>
+        <div class="value">335</div></div>
+      <div class="stat"><div class="label">Both MRPs agree</div>
+        <div class="value">275</div></div>
+      <div class="stat"><div class="label">Pollsters disagree</div>
+        <div class="value">109</div></div>
+      <div class="stat"><div class="label">Expected seats (ΣP)</div>
+        <div class="value">327.7</div></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Explore</h2>
+    <div class="cards">
+      <a class="card" href="reform_dashboard.html">
+        <span class="emoji">📊</span>
+        <h3>Interactive dashboard</h3>
+        <p>Filterable table and charts across every constituency.</p>
+        <ul>
+          <li>Sortable table with 12 columns including swing from 2024</li>
+          <li>Search, category filter, MRP-agreement filter</li>
+          <li>Category bar chart, vote-share histogram, swing histogram</li>
+          <li>Margin vs share scatter, MiC-vs-EC agreement scatter</li>
+          <li>Top 20 safest Reform seats and closest marginals</li>
+        </ul>
+        <div class="go">Open dashboard →</div>
+      </a>
+
+      <a class="card" href="reform_map.html">
+        <span class="emoji">🗺️</span>
+        <h3>Constituency map</h3>
+        <p>Leaflet choropleth of all 650 UK constituencies.</p>
+        <ul>
+          <li>Colour by projected winner (MiC)</li>
+          <li>Colour by P(Reform wins), 0 → 1 gradient</li>
+          <li>Colour by Reform vote share %, 0 → 60%</li>
+          <li>Colour by swing from 2024 (diverging red ↔ teal)</li>
+          <li>Colour by MRP agreement — where the pollsters disagree</li>
+        </ul>
+        <div class="go">Open map →</div>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>About the data</h2>
+
+    <details>
+      <summary>What is an MRP?</summary>
+      <p>A standard poll of ~2,000 people can't say anything reliable about a single constituency. <b>Multilevel Regression and Post-stratification (MRP)</b> solves this by fitting a demographic model of vote choice on a much larger sample (10k–40k), then post-stratifying that model across each constituency's census makeup. MRPs called Labour's 2017 underperformance and the Conservatives' 2019 majority more accurately than conventional poll aggregation.</p>
+    </details>
+
+    <details>
+      <summary>How is the win probability calculated?</summary>
+      <p>Neither MRP publishes posterior draws — just point estimates. The probability is a Normal-CDF proxy on Reform's mean margin over its top competitor:</p>
+      <p><code>P(Reform wins) = Φ(mean_margin × 100 / σ)</code></p>
+      <p><b>σ is derived empirically</b> from how much the two MRPs disagree on each seat's margin — not a fixed assumption. A per-seat σ is built from a whole-set floor (≈6.4 pp, from cross-pollster RMS disagreement of ≈9 pp) plus that specific seat's pollster disagreement. Seats where the MRPs closely agree get tighter probabilities; seats where they diverge slide toward 50%.</p>
+    </details>
+
+    <details>
+      <summary>What's the 2024 baseline used for?</summary>
+      <p>Actual Reform UK vote share from the July 2024 general election (HoC Library data), used to compute each seat's <b>swing from 2024 → 2026 MRP mean</b>. This turns absolute vote share into a more interpretable "Reform gained / lost X pp here since the last election."</p>
+    </details>
+
+    <details>
+      <summary>Caveats</summary>
+      <ul>
+        <li>No Northern Ireland — neither MRP models NI's 18 seats (shown grey on the map).</li>
+        <li>No Chorley — the Speaker's seat is uncontested by major parties and excluded from both MRPs.</li>
+        <li>Not a forecast. Two MRP snapshots averaged — a read of early-2026 voting intention, not a call on the next election.</li>
+        <li>Not the MRPs' own posterior. A Normal-margin proxy still overstates certainty in very safe seats and doesn't account for correlated national errors.</li>
+        <li>The 3-month gap between MiC (Apr 2026) and EC (Jan 2026) means part of the cross-pollster disagreement is real polling movement, not methodology noise. A fresher second MRP would tighten uncertainty.</li>
+      </ul>
+    </details>
+  </section>
+
+</main>
+
+<footer>
+  Data:
+  <a href="https://www.moreincommon.org.uk/latest-insights/more-in-common-s-april-2026-mrp/" target="_blank">More in Common April 2026 MRP</a> ·
+  <a href="https://www.electoralcalculus.co.uk/blogs/ec_vipoll_20260113.html" target="_blank">Electoral Calculus January 2026 MRP</a> ·
+  <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10009/" target="_blank">HoC Library 2024 GE results</a> ·
+  <a href="https://geoportal.statistics.gov.uk/datasets/ons::westminster-parliamentary-constituencies-july-2024-boundaries-uk-buc-2/about" target="_blank">ONS 2024 constituency boundaries</a>
+  &nbsp;·&nbsp;
+  See <a href="README.md">README.md</a> for methodology.
+</footer>
+
+</body>
+</html>
